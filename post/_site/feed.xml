@@ -1,0 +1,2205 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-05-28T16:15:27+08:00</updated><id>http://localhost:4000/</id><title type="html">Information Calender</title><subtitle>Information Calender based on Key Word Extraction and Classification
+</subtitle><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><entry><title type="html">page_4_9.html</title><link href="http://localhost:4000/2018/05/28/page_4_9.html" rel="alternate" type="text/html" title="page_4_9.html" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/page_4_9</id><content type="html" xml:base="http://localhost:4000/2018/05/28/page_4_9.html">﻿
+&lt;!DOCTYPE HTML&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;zh-hans&quot; version=&quot;XHTML+RDFa 1.0&quot; dir=&quot;ltr&quot;
+  xmlns:content=&quot;http://purl.org/rss/1.0/modules/content/&quot;
+  xmlns:dc=&quot;http://purl.org/dc/terms/&quot;
+  xmlns:foaf=&quot;http://xmlns.com/foaf/0.1/&quot;
+  xmlns:og=&quot;http://ogp.me/ns#&quot;
+  xmlns:rdfs=&quot;http://www.w3.org/2000/01/rdf-schema#&quot;
+  xmlns:sioc=&quot;http://rdfs.org/sioc/ns#&quot;
+  xmlns:sioct=&quot;http://rdfs.org/sioc/types#&quot;
+  xmlns:skos=&quot;http://www.w3.org/2004/02/skos/core#&quot;
+  xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema#&quot;&gt;
+
+&lt;head profile=&quot;http://www.w3.org/1999/xhtml/vocab&quot;&gt;
+  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+&lt;link rel=&quot;shortcut icon&quot; href=&quot;http://postinfo.tsinghua.edu.cn/misc/favicon.ico&quot; type=&quot;image/vnd.microsoft.icon&quot; /&gt;
+&lt;link rel=&quot;shortlink&quot; href=&quot;/node/255898&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;/node/255898&quot; /&gt;
+&lt;meta name=&quot;Generator&quot; content=&quot;Drupal 7 (http://drupal.org)&quot; /&gt;
+  &lt;title&gt;第8周（周五）《文化素质教育讲座》课程预告-[胡显章] | 清华大学内网信息发布平台&lt;/title&gt;
+  &lt;style type=&quot;text/css&quot; media=&quot;all&quot;&gt;
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.base.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.menus.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.messages.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.theme.css?p8k4mq&quot;);
+&lt;/style&gt;
+&lt;style type=&quot;text/css&quot; media=&quot;all&quot;&gt;
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/comment/comment.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/field/theme/field.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/node/node.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/search/search.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/user/user.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/sites/all/modules/views/css/views.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/sites/all/modules/ckeditor/css/ckeditor.css?p8k4mq&quot;);
+&lt;/style&gt;
+&lt;style type=&quot;text/css&quot; media=&quot;all&quot;&gt;
+@import url(&quot;http://postinfo.tsinghua.edu.cn/sites/all/modules/ctools/css/ctools.css?p8k4mq&quot;);
+&lt;/style&gt;
+  &lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/misc/jquery.js?v=1.4.4&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/misc/jquery.once.js?v=1.2&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/misc/drupal.js?p8k4mq&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/sites/default/files/languages/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js?p8k4mq&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--//--&gt;&lt;![CDATA[//&gt;&lt;!--
+jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPrefix&quot;:&quot;&quot;,&quot;ajaxPageState&quot;:{&quot;theme&quot;:&quot;infoCms&quot;,&quot;theme_token&quot;:&quot;r4a-e6julM98p364Q0GA3aY61BAz9EcT-4ozlkcIjko&quot;,&quot;js&quot;:{&quot;misc\/jquery.js&quot;:1,&quot;misc\/jquery.once.js&quot;:1,&quot;misc\/drupal.js&quot;:1,&quot;public:\/\/languages\/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js&quot;:1},&quot;css&quot;:{&quot;modules\/system\/system.base.css&quot;:1,&quot;modules\/system\/system.menus.css&quot;:1,&quot;modules\/system\/system.messages.css&quot;:1,&quot;modules\/system\/system.theme.css&quot;:1,&quot;modules\/comment\/comment.css&quot;:1,&quot;modules\/field\/theme\/field.css&quot;:1,&quot;modules\/node\/node.css&quot;:1,&quot;modules\/search\/search.css&quot;:1,&quot;modules\/user\/user.css&quot;:1,&quot;sites\/all\/modules\/views\/css\/views.css&quot;:1,&quot;sites\/all\/modules\/ckeditor\/css\/ckeditor.css&quot;:1,&quot;sites\/all\/modules\/ctools\/css\/ctools.css&quot;:1}}});
+//--&gt;&lt;!]]&gt;
+&lt;/script&gt;
+  &lt;link href=&quot;/sites/all/themes/infoCms/css/reset.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+	&lt;link href=&quot;/sites/all/themes/infoCms/css/nav.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+	&lt;link href=&quot;/sites/all/themes/infoCms/css/templet.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+	&lt;!-- IE8 兼容 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=EmulateIE7&quot; /&gt;
+	&lt;!-–[if IE]&gt;
+	&lt;script src=&quot;/sites/all/themes/infoCms/js/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]–-&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/jquery-1.8.1.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/jquery-ui-1.8.23.custom.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/gototop.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/effect.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/effect.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot; src=&quot;/sites/all/themes/infoCms/js/jquery.jfontsize-1.0.js&quot;&gt;&lt;/script&gt;
+	
+&lt;/head&gt;
+
+&lt;body&gt;
+	
+  ﻿&lt;!-- 整体区域开始 --&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+      &lt;!-- 中部区域开始 --&gt;
+      &lt;div class=&quot;content&quot;&gt;
+				
+&lt;!-- 内容区域 start --&gt;
+&lt;section class=&quot;cont_box some-class-name&quot;&gt;
+	
+    &lt;!-- start --&gt;
+    &lt;div class=&quot;m_nav&quot;&gt;
+    	&lt;ul class=&quot;mnav_left&quot;&gt;
+          &lt;li&gt;&lt;a href=&quot;/node/255898&quot;&gt;第8周（周五）《文化素质教育讲座》课程预告-[胡显章]&lt;/a&gt;
+        &lt;/ul&gt;
+    	&lt;ul class=&quot;mnav_right&quot;&gt;
+        	&lt;li&gt;&lt;a href=&quot;/node/255898/edit&quot; class=&quot;&quot;&gt;编&amp;nbsp;&amp;nbsp;辑&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;/node/255898/delete&quot; class=&quot;&quot;&gt;删&amp;nbsp;&amp;nbsp;除&lt;/a&gt;&lt;/li&gt;
+            &lt;!--li&gt;&lt;a href=&quot;#&quot; class=&quot;&quot;&gt;&lt; 上篇&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;&quot;&gt;下篇 &gt;&lt;/a&gt;&lt;/li--&gt;
+            &lt;!--li&gt;&lt;a href=&quot;/f/jiaowugonggao/more&quot; class=&quot;&quot;&gt;返回&lt;/a&gt;&lt;/li--&gt;
+        &lt;/ul&gt;
+        
+    &lt;/div&gt;
+    &lt;!-- end --&gt;
+    
+    &lt;!-- 文章区域 start --&gt;
+    &lt;div class=&quot;cont_doc_box&quot;&gt;
+    	&lt;h5&gt;&lt;span&gt;第8周（周五）《文化素质教育讲座》课程预告-[胡显章]&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; [文化素质教育基地办公室&amp;nbsp;&amp;nbsp;&amp;nbsp;2018-04-13]&lt;/h5&gt;
+      &lt;div style=&quot;clear:left;&quot;&gt;
+      	&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;清华大学《文化素质教育讲座》课程&lt;/p&gt;
+&lt;p&gt;（读书文化月专场）&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;演讲题目：多读书，读好书，善读书 共建书香校园&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;演讲人：《清华大学荐读书目》主编  胡显章教授&lt;/p&gt;
+&lt;p&gt;主持人：清华大学社科学院  杨舰教授&lt;/p&gt;
+&lt;p&gt;时    间：2018年4月20日（周五）14：30&lt;/p&gt;
+&lt;p&gt;地    点：文图大同厅&lt;/p&gt;
+&lt;p&gt;主    办：清华大学国家大学生文化素质教育基地 清华大学人文社科图书馆&lt;/p&gt;
+&lt;p&gt;               清华大学教务处 清华大学学生处 清华大学团委 清华大学出版社&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;演讲人简介：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        胡显章，清华大学教授，1957-1963年在精仪系学习，毕业后留校，后曾赴美参与纳米定位技术研究。1991-2002年任校党委副书记，2002-2005年任校务委员会副主任。曾主持清华文科恢复发展工作，兼任人文社科学院院长、新闻与传播学院常务副院长，国家大学生文化素质教育基地主任等。主要社会兼职先后有：全国教育科学规划领导小组成员、高等教育学科评议组组长，教育部高校文化素质教育指导委员会副主任/顾问，北大－清华－高教出版社联合组建的大学文化研究与发展中心轮值主任/学术委员会常务副主任, 中国高等教育学会素质教育研究会顾问、大学文化研究会顾问等。主要研究方向为高等教育和大学文化研究。编著相关著作16部，发表论文150余篇，主持或参加多项国家及部委课题。获国家级教学成果一、二等奖各一项，北京市教学成果一等奖一项。2012年获素质教育研究会开拓贡献奖，2013年被中国高等教育学会评为“从事高教工作逾30年高教研究有重要贡献学者”。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;演讲内容介绍：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        在本次讲座中，胡显章教授将就为什么要提倡多读书，读怎样的书，怎样读书等问题与大家交流体会，并介绍《清华大学荐读书目》的由来、主要内容。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特别提示：&lt;/strong&gt;（1）请本科同学携带学生IC卡刷卡入场；（2）入场时间为当日14：00；（3）根据《北京市消防条例（2011修订）》相关规定，为确保安全，入场人数控制在100人，额满即止。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;      	&lt;br/&gt;&lt;br/&gt;
+				&lt;!--附件start--&gt;
+    		&lt;div style=&quot;margin-left:25px;&quot;&gt;&lt;/div&gt;
+				&lt;!--附件end--&gt;
+    	&lt;/div&gt;
+  	&lt;/div&gt;
+    &lt;!-- 文章区域 end --&gt;
+&lt;/section&gt;
+&lt;!-- 内容区域 end --&gt; 
+
+                 
+    	&lt;/div&gt;
+      &lt;!-- 中部区域结束 --&gt;
+      
+      &lt;!-- 返回顶部 start --&gt;
+      &lt;div id=&quot;topcontrol&quot; title=&quot;返回顶部&quot;&gt;&lt;/div&gt;
+      &lt;!-- 返回顶部 end --&gt;
+      
+&lt;/div&gt;
+&lt;!-- 整体区域结束 --&gt;
+
+
+  
+	
+&lt;/body&gt;
+&lt;script&gt;
+			//搜索回车
+			document.onkeydown = function(e){ 
+				  var ev = document.all ? window.event : e;
+					if(ev.keyCode==13&amp;&amp;$(&quot;#edit-key&quot;).length&gt;0) {
+ 						$('#edit-submit').trigger(&quot;click&quot;);
+					}
+			}
+  		$(&quot;#edit-submit&quot;).click(function(){
+  				if($(&quot;#edit-key&quot;).length&gt;0) {
+		  				var key = $(&quot;#edit-key&quot;).val();
+		  				var type = $(&quot;#edit-type&quot;).val();
+		  				if(key == null || key.length == 0){
+		  					 alert('请输入关键字!');	
+		  				}else{
+		  					 var searchUrl = &quot;/search/site/&quot;+key+&quot;?f[0]=bundle:&quot;+type+&quot;&amp;retain-filters=1&amp;solrsort=ds_created%20desc&quot;;
+		  					 window.open(searchUrl);
+		  				}
+  				}
+  		});
+
+  		//将title替换为形如“办公通知 | 清华大学内网信息发布平台”的样子
+  		$( document ).ready(function() {
+  		  var h3s = $(&quot;.cont_list_box &gt; h3 &gt; span&quot;);
+  		  if(h3s.length &gt; 0 &amp;&amp; $.trim(h3s[0].innerText)){
+  			document.title = h3s[0].innerText.replace(/列表$/,'') + ' | ' + document.title;
+  		  }
+		});
+&lt;/script&gt;
+
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="None" /><summary type="html">None</summary></entry><entry><title type="html">page_4_8.html</title><link href="http://localhost:4000/2018/05/28/page_4_8.html" rel="alternate" type="text/html" title="page_4_8.html" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/page_4_8</id><content type="html" xml:base="http://localhost:4000/2018/05/28/page_4_8.html">&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=GBK&quot;&gt;
+&lt;title&gt;研究生院办公网内网&lt;/title&gt;
+
+&lt;link href=&quot;/docinfo/css/page.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;/&gt;
+
+
+
+&lt;/head&gt;
+
+
+&lt;script language=&quot;javascript&quot;&gt;
+&lt;!--
+function commentCheck(){
+	if(document.forms(0).content.value==&quot;&quot;){
+		alert(&quot;评论内容不能为空!&quot;);
+		document.forms(0).content.focus();
+		return false;
+	}
+	if(document.forms(0).anonymous.value==&quot;1&quot;&amp;&amp;
+	document.forms(0).nickName.value==&quot;&quot;){
+		document.forms(0).nickName.value=&quot;匿名&quot;;
+	}
+	return true;
+}
+--&gt;
+&lt;/script&gt;
+&lt;!-- 得到请求参数 --&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;!-- 得到infoColumnVo --&gt;
+
+
+&lt;!-- 得到参数VO --&gt;
+
+ 
+
+  &lt;!-- 文档计数+1 --&gt;
+
+
+
+
+
+
+&lt;body &gt;
+
+ 
+
+
+
+
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/js/jquery-1[1].3.2.min.js&quot;&gt;&lt;/script&gt; 
+&lt;script type=&quot;text/javascript&quot; src=&quot;/js/jxrl-1.0.js&quot;&gt;&lt;/script&gt; 
+
+
+&lt;script type=&quot;text/JavaScript&quot;&gt;
+&lt;!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i&lt;a.length; i++)
+    if (a[i].indexOf(&quot;#&quot;)!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&amp;&amp;i&lt;a.length&amp;&amp;(x=a[i])&amp;&amp;x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf(&quot;?&quot;))&gt;0&amp;&amp;parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&amp;&amp;d.all) x=d.all[n]; for (i=0;!x&amp;&amp;i&lt;d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&amp;&amp;d.layers&amp;&amp;i&lt;d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x &amp;&amp; d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i&lt;(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//--&gt;
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+function search(){
+		var searchValue = document.getElementById('searchValue').value.replace(/^\s+|\s+$/g,&quot;&quot;);;
+		if(searchValue == '请输入您要查找的关键字...')searchValue = '';
+		if(searchValue == ''){
+          alert(&quot;请输入您要查找的关键字&quot;);         
+          document.getElementById('searchValue').focus(); 
+        }else{  
+		  var str = &quot;/docinfo/search.jsp?searchTitle=&quot; + escape(searchValue);
+		  window.open(str);
+		  //window.location.href(str);
+		}		
+}
+
+function searchFocus(text){
+		text.value = '';
+}
+	
+function searchBlur(text){
+		if(text.value == '')
+			text.value = '请输入您要查找的关键字...';
+}
+	
+&lt;/Script&gt;
+
+
+
+
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+
+	
+	&lt;script&gt;
+	$(document).ready(function(){	  
+		getCal_json(&quot;/portal/proxy/tsxx&quot;,function(Cal_json){		    
+			jQuery('#line1').html(Cal_json.begin_year+&quot;-&quot;+Cal_json.end_year+Cal_json.season);
+			jQuery('#line2').html(&quot;第&quot;+Cal_json.zhou_num+&quot;周&quot;);
+			jQuery('#line3').html(Cal_json.date);
+			jQuery('#line4').html(Cal_json.week);			
+		});
+	});
+	&lt;/script&gt;	
+   &lt;div id=&quot;banner&quot;&gt;
+            
+    	 	
+    	    	   
+       		&lt;img id=&quot;img_change&quot; src=&quot;/docinfo/img/banner.jpg&quot; width=&quot;947&quot; height=&quot;103&quot; /&gt;       		
+    	
+    &lt;/div&gt;
+    &lt;div id=&quot;weather&quot;&gt;
+        &lt;ul&gt;
+            &lt;li id=&quot;line1&quot;&gt;&lt;/li&gt;
+            &lt;li class=&quot;red&quot; id=&quot;line2&quot;&gt;&lt;/li&gt;
+            &lt;li id=&quot;line3&quot;&gt;&lt;/li&gt;
+            &lt;li id=&quot;line4&quot;&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+	   
+    &lt;div id=&quot;search&quot;&gt;
+    	&lt;ul&gt;
+		  &lt;li&gt;
+            &lt;input id=&quot;searchValue&quot; type=&quot;text&quot;  size=&quot;40&quot; value=&quot;请输入您要查找的关键字...&quot; style=&quot;vertical-align:middle;&quot; onFocus=&quot;searchFocus(this)&quot; onBlur=&quot;searchBlur(this)&quot;/&gt;&amp;nbsp;
+            &lt;input type=&quot;image&quot; style=&quot;vertical-align:middle;&quot; onClick=&quot;search()&quot; src=&quot;/docinfo/img/button_search.gif&quot; width=&quot;82&quot; height=&quot;21&quot; /&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;    
+    	
+  
+&lt;div id=&quot;center&quot;&gt;
+    &lt;!-- 导航部分 --&gt;
+    
+
+ 
+
+
+
+
+
+&lt;div id=&quot;nav2&quot;&gt;
+    &lt;ul&gt;
+       &lt;li&gt;&lt;span&gt;当前位置:&lt;/span&gt;
+       &lt;/li&gt;      
+                       
+       
+      
+        
+       
+         
+             
+          
+          
+          
+          
+          
+            &lt;li&gt;&amp;gt;&amp;gt;&lt;a href=&quot;../index.jsp&quot;&gt;首页&lt;/a&gt;
+            &lt;/li&gt;
+             
+          
+          
+          
+          
+             
+          
+          
+           
+                       
+            &lt;li&gt;&amp;gt;&amp;gt;&lt;a href=&quot;/docinfo/board1/boardlist.jsp?columnId=0010106&amp;parentColumnId=001&quot;&gt;教务通知&lt;/a&gt;
+            &lt;/li&gt;            
+                        
+          
+          
+        
+        
+                                               
+     &lt;/ul&gt;
+&lt;/div&gt;
+    &lt;!-- 导航部分结束 --&gt;
+    
+    
+         
+    &lt;h3&gt;
+	    &lt;span&gt;    
+	        &lt;font color=&quot;&quot;&gt;
+	          《全球经济、金融与能源前沿》4月18日课暂停一次
+	        &lt;/font&gt;
+	                        
+	    &lt;/span&gt;
+    &lt;/h3&gt;
+
+    &lt;div style=&quot;width:90%; margin:10px auto; padding-bottom:10px; border-bottom:#dcdcdc 1px solid; overflow:hidden; &quot;&gt;
+        	&lt;ul&gt;
+            	&lt;li&gt;&lt;span class=&quot;left&quot; style=&quot;padding-top:30px;&quot;&gt;
+            	     发布时间:2018-04-16
+            	     &amp;nbsp;&amp;nbsp;
+            	     访问计数:462
+            	     &lt;/span&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;span class=&quot;left&quot;&gt;&lt;/span&gt;&lt;/li&gt;                
+                
+                 &lt;li&gt;
+                   &lt;a href=&quot;javascript:window.close()&quot;&gt;&lt;span class=&quot;right&quot;&gt;[关闭窗口]&lt;/span&gt;&lt;/a&gt;
+                      
+                 &lt;/li&gt;   
+            &lt;/ul&gt;
+    &lt;/div&gt;
+    
+     &lt;div style=&quot;text-align:left; width:90%; magin:0px auto; padding-top:20px;  padding-bottom:20px;word-break:break-all;&quot;&gt;
+     &lt;span&gt;&lt;P align=center&gt;&lt;SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm&quot;&gt;&amp;nbsp; &lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;&lt;SPAN style='FONT-SIZE: 18pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;通知&lt;/SPAN&gt;&lt;/B&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 18pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&lt;?xml:namespace prefix = &quot;o&quot; ns = &quot;urn:schemas-microsoft-com:office:office&quot; /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; mso-pagination: widow-orphan&quot; align=left&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;各位同学：&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; TEXT-INDENT: 21pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan&quot; align=left&gt;&lt;SPAN lang=EN-US style='BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-size: 10.5pt; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&lt;FONT size=3&gt;&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; TEXT-INDENT: 28pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan&quot; align=left&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;4&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;月18&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;日（周三）&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;《&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;全球经济、金融与能源前沿》&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;课暂停一次，望周知。&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; TEXT-INDENT: 21pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan&quot; align=left&gt;&lt;SPAN lang=EN-US style='BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-size: 10.5pt; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&lt;FONT size=3&gt;&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; TEXT-INDENT: 28pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan&quot; align=left&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;联系人：&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt; &lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;刘静&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt; &lt;SPAN lang=EN-US&gt;&lt;FONT size=5&gt;&lt;FONT face=&quot;Times New Roman&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 12pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-bidi-font-size: 14.0pt; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA'&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA'&gt;62780949&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; mso-pagination: widow-orphan&quot; align=left&gt;&lt;FONT size=5&gt;&lt;FONT face=&quot;Times New Roman&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 18pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&lt;SPAN style=&quot;mso-spacerun: yes&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-size: 10.5pt; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; mso-pagination: widow-orphan&quot; align=left&gt;&lt;SPAN lang=EN-US style='BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-size: 10.5pt; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&lt;FONT size=3&gt;&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; mso-pagination: widow-orphan&quot; align=left&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 18pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&lt;FONT size=5&gt;&lt;FONT face=&quot;Times New Roman&quot;&gt;&lt;SPAN style=&quot;mso-spacerun: yes&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN&gt;&lt;SPAN style=&quot;mso-spacerun: yes&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;研究生院&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; TEXT-INDENT: 294pt; mso-char-indent-count: 21.0; mso-pagination: widow-orphan&quot; align=left&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;2018&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;年4&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;月16&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;日&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; mso-pagination: widow-orphan&quot; align=left&gt;&lt;/SPAN&gt;&amp;nbsp;&lt;/P&gt;&lt;/SPAN&gt;&lt;/span&gt;
+     &lt;/div&gt;
+     
+     &lt;!-- &lt;div class=&quot;clear&quot; style=&quot;magin:20px auto;&quot;&gt;&amp;nbsp;&lt;/div&gt; --&gt;
+    &lt;div style=&quot;width:90%; margin:20px auto; padding-top:10px; border-top:#dcdcdc 1px solid&quot;&gt;
+
+    &lt;/div&gt;
+
+&lt;/div&gt;   
+
+
+
+&lt;div id=&quot;footer_s&quot;&gt;&lt;!-- 底部区域开始 --&gt;
+    	&lt;p&gt;版权所有:清华大学研究生院&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;技术支持:清华大学信息化技术中心&lt;/p&gt;
+        &lt;p style=&quot;font-family:Arial;&quot;&gt;Copyright&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-size:16px;&quot;&gt;&amp;copy;&lt;/span&gt;&amp;nbsp;&amp;nbsp;2009 Tsinghua University All Rights Reserved.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- 底部区域结束 --&gt;
+    
+
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="None" /><summary type="html">None</summary></entry><entry><title type="html">page_4_7.html</title><link href="http://localhost:4000/2018/05/28/page_4_7.html" rel="alternate" type="text/html" title="page_4_7.html" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/page_4_7</id><content type="html" xml:base="http://localhost:4000/2018/05/28/page_4_7.html">﻿
+&lt;!DOCTYPE HTML&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;zh-hans&quot; version=&quot;XHTML+RDFa 1.0&quot; dir=&quot;ltr&quot;
+  xmlns:content=&quot;http://purl.org/rss/1.0/modules/content/&quot;
+  xmlns:dc=&quot;http://purl.org/dc/terms/&quot;
+  xmlns:foaf=&quot;http://xmlns.com/foaf/0.1/&quot;
+  xmlns:og=&quot;http://ogp.me/ns#&quot;
+  xmlns:rdfs=&quot;http://www.w3.org/2000/01/rdf-schema#&quot;
+  xmlns:sioc=&quot;http://rdfs.org/sioc/ns#&quot;
+  xmlns:sioct=&quot;http://rdfs.org/sioc/types#&quot;
+  xmlns:skos=&quot;http://www.w3.org/2004/02/skos/core#&quot;
+  xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema#&quot;&gt;
+
+&lt;head profile=&quot;http://www.w3.org/1999/xhtml/vocab&quot;&gt;
+  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+&lt;link rel=&quot;shortcut icon&quot; href=&quot;http://postinfo.tsinghua.edu.cn/misc/favicon.ico&quot; type=&quot;image/vnd.microsoft.icon&quot; /&gt;
+&lt;link rel=&quot;shortlink&quot; href=&quot;/node/256020&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;/node/256020&quot; /&gt;
+&lt;meta name=&quot;Generator&quot; content=&quot;Drupal 7 (http://drupal.org)&quot; /&gt;
+  &lt;title&gt;第8周（周四）《文化素质教育讲座》课程预告-[金峰] | 清华大学内网信息发布平台&lt;/title&gt;
+  &lt;style type=&quot;text/css&quot; media=&quot;all&quot;&gt;
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.base.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.menus.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.messages.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.theme.css?p8k4mq&quot;);
+&lt;/style&gt;
+&lt;style type=&quot;text/css&quot; media=&quot;all&quot;&gt;
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/comment/comment.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/field/theme/field.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/node/node.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/search/search.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/user/user.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/sites/all/modules/views/css/views.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/sites/all/modules/ckeditor/css/ckeditor.css?p8k4mq&quot;);
+&lt;/style&gt;
+&lt;style type=&quot;text/css&quot; media=&quot;all&quot;&gt;
+@import url(&quot;http://postinfo.tsinghua.edu.cn/sites/all/modules/ctools/css/ctools.css?p8k4mq&quot;);
+&lt;/style&gt;
+  &lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/misc/jquery.js?v=1.4.4&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/misc/jquery.once.js?v=1.2&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/misc/drupal.js?p8k4mq&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/sites/default/files/languages/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js?p8k4mq&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--//--&gt;&lt;![CDATA[//&gt;&lt;!--
+jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPrefix&quot;:&quot;&quot;,&quot;ajaxPageState&quot;:{&quot;theme&quot;:&quot;infoCms&quot;,&quot;theme_token&quot;:&quot;jksdvQtB2ywoIuPplXxW68JFaIjS1_O-9UbWag_APoI&quot;,&quot;js&quot;:{&quot;misc\/jquery.js&quot;:1,&quot;misc\/jquery.once.js&quot;:1,&quot;misc\/drupal.js&quot;:1,&quot;public:\/\/languages\/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js&quot;:1},&quot;css&quot;:{&quot;modules\/system\/system.base.css&quot;:1,&quot;modules\/system\/system.menus.css&quot;:1,&quot;modules\/system\/system.messages.css&quot;:1,&quot;modules\/system\/system.theme.css&quot;:1,&quot;modules\/comment\/comment.css&quot;:1,&quot;modules\/field\/theme\/field.css&quot;:1,&quot;modules\/node\/node.css&quot;:1,&quot;modules\/search\/search.css&quot;:1,&quot;modules\/user\/user.css&quot;:1,&quot;sites\/all\/modules\/views\/css\/views.css&quot;:1,&quot;sites\/all\/modules\/ckeditor\/css\/ckeditor.css&quot;:1,&quot;sites\/all\/modules\/ctools\/css\/ctools.css&quot;:1}}});
+//--&gt;&lt;!]]&gt;
+&lt;/script&gt;
+  &lt;link href=&quot;/sites/all/themes/infoCms/css/reset.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+	&lt;link href=&quot;/sites/all/themes/infoCms/css/nav.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+	&lt;link href=&quot;/sites/all/themes/infoCms/css/templet.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+	&lt;!-- IE8 兼容 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=EmulateIE7&quot; /&gt;
+	&lt;!-–[if IE]&gt;
+	&lt;script src=&quot;/sites/all/themes/infoCms/js/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]–-&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/jquery-1.8.1.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/jquery-ui-1.8.23.custom.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/gototop.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/effect.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/effect.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot; src=&quot;/sites/all/themes/infoCms/js/jquery.jfontsize-1.0.js&quot;&gt;&lt;/script&gt;
+	
+&lt;/head&gt;
+
+&lt;body&gt;
+	
+  ﻿&lt;!-- 整体区域开始 --&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+      &lt;!-- 中部区域开始 --&gt;
+      &lt;div class=&quot;content&quot;&gt;
+				
+&lt;!-- 内容区域 start --&gt;
+&lt;section class=&quot;cont_box some-class-name&quot;&gt;
+	
+    &lt;!-- start --&gt;
+    &lt;div class=&quot;m_nav&quot;&gt;
+    	&lt;ul class=&quot;mnav_left&quot;&gt;
+          &lt;li&gt;&lt;a href=&quot;/node/256020&quot;&gt;第8周（周四）《文化素质教育讲座》课程预告-[金峰]&lt;/a&gt;
+        &lt;/ul&gt;
+    	&lt;ul class=&quot;mnav_right&quot;&gt;
+        	&lt;li&gt;&lt;a href=&quot;/node/256020/edit&quot; class=&quot;&quot;&gt;编&amp;nbsp;&amp;nbsp;辑&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;/node/256020/delete&quot; class=&quot;&quot;&gt;删&amp;nbsp;&amp;nbsp;除&lt;/a&gt;&lt;/li&gt;
+            &lt;!--li&gt;&lt;a href=&quot;#&quot; class=&quot;&quot;&gt;&lt; 上篇&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;&quot;&gt;下篇 &gt;&lt;/a&gt;&lt;/li--&gt;
+            &lt;!--li&gt;&lt;a href=&quot;/f/jiaowugonggao/more&quot; class=&quot;&quot;&gt;返回&lt;/a&gt;&lt;/li--&gt;
+        &lt;/ul&gt;
+        
+    &lt;/div&gt;
+    &lt;!-- end --&gt;
+    
+    &lt;!-- 文章区域 start --&gt;
+    &lt;div class=&quot;cont_doc_box&quot;&gt;
+    	&lt;h5&gt;&lt;span&gt;第8周（周四）《文化素质教育讲座》课程预告-[金峰]&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; [文化素质教育基地办公室&amp;nbsp;&amp;nbsp;&amp;nbsp;2018-04-17]&lt;/h5&gt;
+      &lt;div style=&quot;clear:left;&quot;&gt;
+      	&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;清华大学《文化素质教育讲座》课程&lt;/p&gt;
+&lt;p&gt;“学在清华 真人图书馆”系列活动&lt;/p&gt;
+&lt;p&gt;简介&lt;/p&gt;
+&lt;p&gt;        清华大学“学在清华•真人图书馆”系列活动由清华大学图书馆、清华大学研究生会和清华大学国家大学生文化素质教育基地联合主办。该活动改变了以往传统的图书馆阅读模式，以一种真人面对面沟通的形式让读者来完成“图书”的阅读，从而实现与“真人图书”零距离的互动沟通，以期让读者通过“借阅”“真人图书”，领略别样人生。&lt;/p&gt;
+&lt;p&gt;        “读有故事的人，阅会行走的书”，我们希望能够通过搭建这样一个面对面的交流平台，在深化导学关系的同时，使同学们学到更多求学问道的方法、感悟更多为人处世的道理。相信同学们与真人图书的现场对话与交流，对推动我校文化素质教育建设、丰富校园文化活动内涵、提高学生综合素质与文化水平，发挥意义深远的积极作用。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;演讲题目：工程的魅力——行万里路后的感悟&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;嘉    宾：金峰  教授&lt;/p&gt;
+&lt;p&gt;主持人：张秋  博士&lt;/p&gt;
+&lt;p&gt;时    间：2018年4月19日（周四）19：00&lt;/p&gt;
+&lt;p&gt;地    点：清华大学图书馆李文正馆地下一层邺架轩&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;嘉宾简介：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        金峰，清华大学水利水电工程系，教授。担任中国水利学会水工专业委员会副主任委员，教育部水利学科教学指导委员会副主任委员。荣获清华大学四次“良师益友”奖。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特别提示：&lt;/strong&gt;1.从2013年9月24日起，清华大学“学在清华•真人图书馆”系列活动列入《文化素质教育讲座》课程，并按该课程要求举办，请全体本科生（尤其是大一学生）携带学生IC卡刷卡入场选听；2.入场时间为当日18：30。根据《北京市消防条例（2011修订）》相关规定，为确保安全，入场人数控制在60人，额满即止。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;      	&lt;br/&gt;&lt;br/&gt;
+				&lt;!--附件start--&gt;
+    		&lt;div style=&quot;margin-left:25px;&quot;&gt;&lt;/div&gt;
+				&lt;!--附件end--&gt;
+    	&lt;/div&gt;
+  	&lt;/div&gt;
+    &lt;!-- 文章区域 end --&gt;
+&lt;/section&gt;
+&lt;!-- 内容区域 end --&gt; 
+
+                 
+    	&lt;/div&gt;
+      &lt;!-- 中部区域结束 --&gt;
+      
+      &lt;!-- 返回顶部 start --&gt;
+      &lt;div id=&quot;topcontrol&quot; title=&quot;返回顶部&quot;&gt;&lt;/div&gt;
+      &lt;!-- 返回顶部 end --&gt;
+      
+&lt;/div&gt;
+&lt;!-- 整体区域结束 --&gt;
+
+
+  
+	
+&lt;/body&gt;
+&lt;script&gt;
+			//搜索回车
+			document.onkeydown = function(e){ 
+				  var ev = document.all ? window.event : e;
+					if(ev.keyCode==13&amp;&amp;$(&quot;#edit-key&quot;).length&gt;0) {
+ 						$('#edit-submit').trigger(&quot;click&quot;);
+					}
+			}
+  		$(&quot;#edit-submit&quot;).click(function(){
+  				if($(&quot;#edit-key&quot;).length&gt;0) {
+		  				var key = $(&quot;#edit-key&quot;).val();
+		  				var type = $(&quot;#edit-type&quot;).val();
+		  				if(key == null || key.length == 0){
+		  					 alert('请输入关键字!');	
+		  				}else{
+		  					 var searchUrl = &quot;/search/site/&quot;+key+&quot;?f[0]=bundle:&quot;+type+&quot;&amp;retain-filters=1&amp;solrsort=ds_created%20desc&quot;;
+		  					 window.open(searchUrl);
+		  				}
+  				}
+  		});
+
+  		//将title替换为形如“办公通知 | 清华大学内网信息发布平台”的样子
+  		$( document ).ready(function() {
+  		  var h3s = $(&quot;.cont_list_box &gt; h3 &gt; span&quot;);
+  		  if(h3s.length &gt; 0 &amp;&amp; $.trim(h3s[0].innerText)){
+  			document.title = h3s[0].innerText.replace(/列表$/,'') + ' | ' + document.title;
+  		  }
+		});
+&lt;/script&gt;
+
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="None" /><summary type="html">None</summary></entry><entry><title type="html">page_4_6.html</title><link href="http://localhost:4000/2018/05/28/page_4_6.html" rel="alternate" type="text/html" title="page_4_6.html" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/page_4_6</id><content type="html" xml:base="http://localhost:4000/2018/05/28/page_4_6.html">&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=gb2312&quot;&gt;
+&lt;title&gt;教务处办公信息系统&lt;/title&gt;
+&lt;link href=&quot;/jwcbg/css/index.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;!--
+body {
+	background-color: #EFEFEF;
+}
+--&gt;
+&lt;/style&gt;&lt;/head&gt;
+
+&lt;body background=&quot;images/1_r7_c2.gif&quot; leftmargin=&quot;0&quot; topmargin=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+&lt;table width=&quot;992&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;98&quot; background=&quot;/jwcbg/images/ban_wdh.gif&quot; bgcolor=&quot;#FFFFFF&quot;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;4&quot; background=&quot;/jwcbg/images/bg_ban_wdh.gif&quot; bgcolor=&quot;1C82D1&quot;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table width=&quot;992&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; bgcolor=&quot;#FFFFFF&quot;&gt;
+  &lt;tr&gt;
+    &lt;td valign=&quot;top&quot;&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;table width=&quot;992&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&amp;nbsp;&lt;/td&gt; &lt;td width=&quot;60&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+		&lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; &gt;
+			  &lt;tr&gt;                
+             &lt;td &gt;
+             	&lt;div align=&quot;center&quot; class=&quot;TD4&quot;&gt;关于开展清华大学年度教学优秀奖（2017年度）评选活动的通知&lt;/div&gt;
+             	&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;10&quot; colspan=&quot;4&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+		&lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; &gt;
+			 &lt;tr &gt;
+              &lt;td align=center&gt;
+                  	【分类: 教学研究与培训中心】&amp;nbsp;&amp;nbsp;【发布时间: 2018-04-18】&amp;nbsp;&amp;nbsp;【访问计数:927】
+                  			
+                  			&lt;/td&gt;
+                 
+  &lt;/tr&gt;
+			  &lt;tr &gt;               
+             &lt;td align=&quot;right&quot;&gt;
+                    &lt;SCRIPT language=JavaScript type=text/JavaScript&gt;
+							function shutwin(){
+							window.close();
+							return;}
+					  &lt;/SCRIPT&gt;
+                    &amp;nbsp;&amp;nbsp;&lt;A
+            href=&quot;javascript:shutwin();&quot; &gt;&lt;font color=&quot;#0066cc&quot;&gt;【关闭窗口】&lt;/font&gt;&lt;/A&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+      &lt;table width=&quot;90%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                &lt;tr&gt;
+                  &lt;td bgcolor=&quot;#F2F2F2&quot; style=&quot;border-left:#B7B6B6 1px solid;border-right:#B7B6B6 1px solid;border-top:#B7B6B6 1px solid;border-bottom:#B7B6B6 1px solid;&quot;&gt;&lt;table width=&quot;80%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                      &lt;tr&gt;
+                        &lt;td height=&quot;9&quot;&gt;&lt;/td&gt;
+                      &lt;/tr&gt;
+                    &lt;/table&gt;
+                      &lt;table width=&quot;98%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; bgcolor=&quot;#FFFFFF&quot;&gt;
+                        &lt;tr&gt;
+                          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                          &lt;td&gt;
+
+			    &lt;table width=&quot;90%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                           
+              &lt;tr&gt;
+                &lt;td height=&quot;15&quot; &gt;&lt;/td&gt;
+              &lt;/tr&gt;
+            &lt;/table&gt;
+              &lt;table width=&quot;90%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                &lt;tr&gt;
+                  &lt;td colspan=&quot;4&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: Arial; mso-font-kerning: 0pt&quot;&gt;&lt;SPAN lang=EN-US&gt;&lt;?xml:namespace prefix = &quot;o&quot; ns = &quot;urn:schemas-microsoft-com:office:office&quot; /&gt;&lt;o:p&gt;&amp;nbsp;&lt;SPAN style='FONT-SIZE: 14pt; FONT-FAMILY: 仿宋; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt; 
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: right; MARGIN: 0cm 3.5pt 0pt 0cm&quot; align=right&gt;&lt;SPAN style='FONT-SIZE: 14pt; FONT-FAMILY: 仿宋; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;清教发【&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 14pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; mso-fareast-font-family: 仿宋'&gt;2018&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; FONT-FAMILY: 仿宋; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;】第&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 14pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; mso-fareast-font-family: 仿宋'&gt;22&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 14pt; FONT-FAMILY: 仿宋; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;号&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: right; MARGIN: 0cm 3.5pt 0pt 0cm&quot; align=right&gt;&lt;SPAN style='FONT-SIZE: 14pt; FONT-FAMILY: 仿宋; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 14pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 32pt; mso-char-indent-count: 2.0&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;为了鼓励广大教师积极投身教学工作，提高教学水平和人才培养质量，在全校营造教书育人的良好氛围，学校从&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;2017&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;年开始设立清华大学年度教学优秀奖。&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 32pt; mso-char-indent-count: 2.0&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;按照《清华大学年度教学优秀奖评选奖励办法》（附件&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;1&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;），年度教学优秀奖每年评选&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;100&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;名，每人奖励&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;1&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;万元人民币，可以重复获奖。&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 32pt; mso-char-indent-count: 2.0&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;清华大学年度教学优秀奖（&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;2017&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;年度）评选对象为&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;2017&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;年度承担本科和研究生教学任务的在职教师，并须满足以下条件之一：&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 32pt; mso-char-indent-count: 2.0&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;1.2017&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;年度应届毕业生调查中获评&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;“&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;好教师&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;”&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;；&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 32pt; mso-char-indent-count: 2.0&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;2.2017&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;年度学生评教排名前&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;5%&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;；&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 32pt; mso-char-indent-count: 2.0&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;3.2017&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;年度在教学创新方面有突出贡献，由院系督导以推荐函的形式具名推荐。&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 32pt; mso-char-indent-count: 2.0&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;评选流程包括参评教师的院系推荐、材料及数据审核、专家评审、学校教学委员会审议，以及公示等环节，获奖名单将于本学期末公布。&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 32pt; mso-char-indent-count: 2.0&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;现请教师所在院系教学委员会推荐人选，每个院系限额推荐&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;1-5&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;人，填写附件&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;2&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;推荐表，并于&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;5&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;月&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;7&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;日前将电子版、纸质版（盖院系公章）递交教学研究与培训中心。&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 32pt; mso-char-indent-count: 2.0&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;为了方便院系推荐工作，现将&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;2017&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;年度应届毕业生调查和学生评教等相关结果附后，供参考。&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;联系人：杨霰霜&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt; &lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;李蔚&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;电话：&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;82914 73921&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;邮箱：&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-FAMILY: &quot;Times New Roman&quot;,serif'&gt;&lt;A href=&quot;mailto:pxzx@mailoa.tsinghua.edu.cn&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 16pt; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋&quot;&gt;&lt;FONT face=&quot;Times New Roman&quot;&gt;pxzx@mailoa.tsinghua.edu.cn&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/A&gt;&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/SPAN&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;&lt;/SPAN&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;&lt;IMG border=0 src=&quot;/editor_new/sysimage/file/unknow.gif&quot;&gt;&lt;A href=&quot;/download.jsp?attachSeq=2645&quot;&gt;附件1清华大学年度教学优秀奖评选奖励办法.docx&lt;/A&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;&lt;IMG border=0 src=&quot;/editor_new/sysimage/file/unknow.gif&quot;&gt;&lt;A href=&quot;/download.jsp?attachSeq=2646&quot;&gt;附件2清华大学年度教学优秀奖推荐表.xlsx&lt;/A&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;&lt;IMG border=0 src=&quot;/editor_new/sysimage/file/pdf.gif&quot;&gt;&lt;A href=&quot;/download.jsp?attachSeq=2647&quot;&gt;附件3教学简报2018年第2期―2017届毕业生教学质量问卷调查情况.pdf&lt;/A&gt;（可查询&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;2017&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;年度应届毕业生调查中获评&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;“&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;好教师&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;”&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;）&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;&lt;IMG border=0 src=&quot;/editor_new/sysimage/file/zip.gif&quot;&gt;&lt;A href=&quot;/download.jsp?attachSeq=2648&quot;&gt;附件4教学简报4期汇总―2017年度本科生、研究生课程课堂教学质量学生问卷调查统计分析报告.rar&lt;/A&gt;（可查询&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;2017&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;年度学生评教前&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;5%&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;教师）&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;SPAN style=&quot;mso-spacerun: yes&quot;&gt;&lt;FONT size=5 face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/FONT&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;教务处&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;SPAN style=&quot;mso-spacerun: yes&quot;&gt;&lt;FONT size=5 face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/FONT&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;教学研究与培训中心&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;SPAN style=&quot;mso-spacerun: yes&quot;&gt;&lt;FONT size=5 face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/FONT&gt;&lt;/SPAN&gt;2018&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;年&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;4&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;月&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;18&lt;/SPAN&gt;&lt;SPAN style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋; COLOR: black; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-font-kerning: 0pt; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;'&gt;日&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 16pt; FONT-FAMILY: &quot;Times New Roman&quot;,serif; COLOR: black; mso-font-kerning: 0pt; mso-fareast-font-family: 仿宋'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: right; MARGIN: 0cm 3.5pt 0pt 0cm&quot; align=right&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&amp;nbsp;&lt;/P&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                  &lt;td height=&quot;30&quot; colspan=&quot;4&quot;&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+						  
+						  &lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                          &lt;td  height=&quot;8&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+
+                    &lt;table width=&quot;80%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                        &lt;tr&gt;
+                          &lt;td height=&quot;9&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+          &lt;/table&gt;
+                              		&lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; &gt;
+  &lt;tr align=&quot;center&quot;&gt;
+   &lt;td width=&quot;10%&quot;&gt;&lt;/td&gt;
+                  &lt;td colspan=&quot;2&quot; width=75% align=right&gt;
+                &lt;A
+            href=&quot;javascript:shutwin();&quot; &gt;&lt;font color=&quot;#0066cc&quot;&gt;【关闭窗口】&lt;/font&gt;&lt;/A&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;10&quot; colspan=&quot;4&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+        &lt;br&gt;
+
+
+    &lt;/div&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt; 
+
+&lt;script language=&quot;javascript&quot;&gt;
+
+function chuanold(oldid,nrid)
+{
+ document.forms[0].oldseq.value=oldid;
+ document.forms[0].temp_content.value=nrid;
+}
+
+&lt;/script&gt;
+
+&lt;table width=&quot;992&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+    &lt;tr&gt;
+    &lt;td height=&quot;3&quot; background=&quot;/jwcbg/images/bg_ban_wdh.gif&quot; bgcolor=&quot;#1C82D1&quot;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;24&quot; bgcolor=&quot;#B1DDFF&quot;&gt;&lt;div align=&quot;center&quot;&gt;版权所有：清华大学教务处&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 技术支持：清华大学计算机与信息管理中心&lt;/div&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="None" /><summary type="html">None</summary></entry><entry><title type="html">page_4_5.html</title><link href="http://localhost:4000/2018/05/28/page_4_5.html" rel="alternate" type="text/html" title="page_4_5.html" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/page_4_5</id><content type="html" xml:base="http://localhost:4000/2018/05/28/page_4_5.html">&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=gb2312&quot;&gt;
+&lt;title&gt;教务处办公信息系统&lt;/title&gt;
+&lt;link href=&quot;/jwcbg/css/index.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;!--
+body {
+	background-color: #EFEFEF;
+}
+--&gt;
+&lt;/style&gt;&lt;/head&gt;
+
+&lt;body background=&quot;images/1_r7_c2.gif&quot; leftmargin=&quot;0&quot; topmargin=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+&lt;table width=&quot;992&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;98&quot; background=&quot;/jwcbg/images/ban_wdh.gif&quot; bgcolor=&quot;#FFFFFF&quot;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;4&quot; background=&quot;/jwcbg/images/bg_ban_wdh.gif&quot; bgcolor=&quot;1C82D1&quot;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table width=&quot;992&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; bgcolor=&quot;#FFFFFF&quot;&gt;
+  &lt;tr&gt;
+    &lt;td valign=&quot;top&quot;&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;table width=&quot;992&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&amp;nbsp;&lt;/td&gt; &lt;td width=&quot;60&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+		&lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; &gt;
+			  &lt;tr&gt;                
+             &lt;td &gt;
+             	&lt;div align=&quot;center&quot; class=&quot;TD4&quot;&gt;第9周（周二）《学术之道》暨《文化素质教育讲座》课程预告[郑泉水 教授]&lt;/div&gt;
+             	&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;10&quot; colspan=&quot;4&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+		&lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; &gt;
+			 &lt;tr &gt;
+              &lt;td align=center&gt;
+                  	【分类: 计划与管理科】&amp;nbsp;&amp;nbsp;【发布时间: 2018-04-19】&amp;nbsp;&amp;nbsp;【访问计数:280】
+                  			
+                  			&lt;/td&gt;
+                 
+  &lt;/tr&gt;
+			  &lt;tr &gt;               
+             &lt;td align=&quot;right&quot;&gt;
+                    &lt;SCRIPT language=JavaScript type=text/JavaScript&gt;
+							function shutwin(){
+							window.close();
+							return;}
+					  &lt;/SCRIPT&gt;
+                    &amp;nbsp;&amp;nbsp;&lt;A
+            href=&quot;javascript:shutwin();&quot; &gt;&lt;font color=&quot;#0066cc&quot;&gt;【关闭窗口】&lt;/font&gt;&lt;/A&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+      &lt;table width=&quot;90%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                &lt;tr&gt;
+                  &lt;td bgcolor=&quot;#F2F2F2&quot; style=&quot;border-left:#B7B6B6 1px solid;border-right:#B7B6B6 1px solid;border-top:#B7B6B6 1px solid;border-bottom:#B7B6B6 1px solid;&quot;&gt;&lt;table width=&quot;80%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                      &lt;tr&gt;
+                        &lt;td height=&quot;9&quot;&gt;&lt;/td&gt;
+                      &lt;/tr&gt;
+                    &lt;/table&gt;
+                      &lt;table width=&quot;98%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; bgcolor=&quot;#FFFFFF&quot;&gt;
+                        &lt;tr&gt;
+                          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                          &lt;td&gt;
+
+			    &lt;table width=&quot;90%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                           
+              &lt;tr&gt;
+                &lt;td height=&quot;15&quot; &gt;&lt;/td&gt;
+              &lt;/tr&gt;
+            &lt;/table&gt;
+              &lt;table width=&quot;90%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                &lt;tr&gt;
+                  &lt;td colspan=&quot;4&quot;&gt;&lt;DIV align=left&gt;&lt;B&gt;演讲题目：学术人生，精彩华章――郑泉水教授对话黄克智院士&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;演讲人：“清华学堂人才培养计划”钱学森力学班首席教授 郑泉水&lt;/DIV&gt;
+&lt;DIV&gt;时&amp;nbsp; 间：2018年4月24日（周二）13:30～15:05&lt;/DIV&gt;
+&lt;DIV&gt;地&amp;nbsp; 点：蒙民伟多功能厅&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;演讲人简介：&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 郑泉水教授，1961年出生于江西省金溪县。1977年考入江西工学院土建系，为恢复高考后首届大学生。1982年留校任助教、副教授、教授至1993年，期间于1985年获湖南大学硕士学位、1989年获得清华大学工学博士学位，1990年至1993年间分别在英国、德国、法国从事客座研究。1993年至今任清华大学工程力学系教授。现兼任清华大学微纳米力学与多学科交叉创新研究中心主任、力学学报和Acta Mechanica Sinica主编和中国力学学会副理事长等。郑泉水教授获得过中国力学学会青年科技奖（1990），国际工程科学联合会和国际工程科学杂志杰出论文奖（1994），中国青年科学家奖（1996），教育部长江特聘教授（2000），国家自然科学二等奖（2005）等，有3位博士生获得全国优秀博士论文奖。2009年起任 “清华学堂人才培养计划” 钱学森力学班首席教授。&lt;/DIV&gt;
+&lt;DIV&gt;郑教授早期的主要研究领域为材料的本构理论，解决了这个领域存在已久的若干问题，尤其是系统地建立起了现代张量函数表示理论，成为了非线性和各向异性材料本构方程研究的理论基础。近十多年来，他致力于研究微纳米科学和技术领域的固-固和固-液界面的运动和耗散问题，在超润滑领域的取得了突破，引发了一系列的基础研究和技术创新。&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;特别提示：&lt;/B&gt;自2014年春季学期起，由“清华学堂人才培养计划”六位首席教授联袂开设的《学术之道》课程，列入“学堂计划”学生文化素质教育必修课程。没有必修《学术之道》课程的本科生可以按《文化素质教育讲座》课程选听讲座，请携带学生IC卡刷卡入场，入场时间为当日13:00。根据《北京市消防条例（2011修订）》相关规定，为确保安全，除必修《学术之道》的同学外，本场讲座有50个座位对本科生开放，额满即止。&lt;/DIV&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                  &lt;td height=&quot;30&quot; colspan=&quot;4&quot;&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+						  
+						  &lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                          &lt;td  height=&quot;8&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+
+                    &lt;table width=&quot;80%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                        &lt;tr&gt;
+                          &lt;td height=&quot;9&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+          &lt;/table&gt;
+                              		&lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; &gt;
+  &lt;tr align=&quot;center&quot;&gt;
+   &lt;td width=&quot;10%&quot;&gt;&lt;/td&gt;
+                  &lt;td colspan=&quot;2&quot; width=75% align=right&gt;
+                &lt;A
+            href=&quot;javascript:shutwin();&quot; &gt;&lt;font color=&quot;#0066cc&quot;&gt;【关闭窗口】&lt;/font&gt;&lt;/A&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;10&quot; colspan=&quot;4&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+        &lt;br&gt;
+
+
+    &lt;/div&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt; 
+
+&lt;script language=&quot;javascript&quot;&gt;
+
+function chuanold(oldid,nrid)
+{
+ document.forms[0].oldseq.value=oldid;
+ document.forms[0].temp_content.value=nrid;
+}
+
+&lt;/script&gt;
+
+&lt;table width=&quot;992&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+    &lt;tr&gt;
+    &lt;td height=&quot;3&quot; background=&quot;/jwcbg/images/bg_ban_wdh.gif&quot; bgcolor=&quot;#1C82D1&quot;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;24&quot; bgcolor=&quot;#B1DDFF&quot;&gt;&lt;div align=&quot;center&quot;&gt;版权所有：清华大学教务处&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 技术支持：清华大学计算机与信息管理中心&lt;/div&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="None" /><summary type="html">None</summary></entry><entry><title type="html">page_4_4.html</title><link href="http://localhost:4000/2018/05/28/page_4_4.html" rel="alternate" type="text/html" title="page_4_4.html" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/page_4_4</id><content type="html" xml:base="http://localhost:4000/2018/05/28/page_4_4.html">&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=GBK&quot;&gt;
+&lt;title&gt;研究生院办公网内网&lt;/title&gt;
+
+&lt;link href=&quot;/docinfo/css/page.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;/&gt;
+
+
+
+&lt;/head&gt;
+
+
+&lt;script language=&quot;javascript&quot;&gt;
+&lt;!--
+function commentCheck(){
+	if(document.forms(0).content.value==&quot;&quot;){
+		alert(&quot;评论内容不能为空!&quot;);
+		document.forms(0).content.focus();
+		return false;
+	}
+	if(document.forms(0).anonymous.value==&quot;1&quot;&amp;&amp;
+	document.forms(0).nickName.value==&quot;&quot;){
+		document.forms(0).nickName.value=&quot;匿名&quot;;
+	}
+	return true;
+}
+--&gt;
+&lt;/script&gt;
+&lt;!-- 得到请求参数 --&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;!-- 得到infoColumnVo --&gt;
+
+
+&lt;!-- 得到参数VO --&gt;
+
+ 
+
+  &lt;!-- 文档计数+1 --&gt;
+
+
+
+
+
+
+&lt;body &gt;
+
+ 
+
+
+
+
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/js/jquery-1[1].3.2.min.js&quot;&gt;&lt;/script&gt; 
+&lt;script type=&quot;text/javascript&quot; src=&quot;/js/jxrl-1.0.js&quot;&gt;&lt;/script&gt; 
+
+
+&lt;script type=&quot;text/JavaScript&quot;&gt;
+&lt;!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i&lt;a.length; i++)
+    if (a[i].indexOf(&quot;#&quot;)!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&amp;&amp;i&lt;a.length&amp;&amp;(x=a[i])&amp;&amp;x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf(&quot;?&quot;))&gt;0&amp;&amp;parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&amp;&amp;d.all) x=d.all[n]; for (i=0;!x&amp;&amp;i&lt;d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&amp;&amp;d.layers&amp;&amp;i&lt;d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x &amp;&amp; d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i&lt;(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//--&gt;
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+function search(){
+		var searchValue = document.getElementById('searchValue').value.replace(/^\s+|\s+$/g,&quot;&quot;);;
+		if(searchValue == '请输入您要查找的关键字...')searchValue = '';
+		if(searchValue == ''){
+          alert(&quot;请输入您要查找的关键字&quot;);         
+          document.getElementById('searchValue').focus(); 
+        }else{  
+		  var str = &quot;/docinfo/search.jsp?searchTitle=&quot; + escape(searchValue);
+		  window.open(str);
+		  //window.location.href(str);
+		}		
+}
+
+function searchFocus(text){
+		text.value = '';
+}
+	
+function searchBlur(text){
+		if(text.value == '')
+			text.value = '请输入您要查找的关键字...';
+}
+	
+&lt;/Script&gt;
+
+
+
+
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+
+	
+	&lt;script&gt;
+	$(document).ready(function(){	  
+		getCal_json(&quot;/portal/proxy/tsxx&quot;,function(Cal_json){		    
+			jQuery('#line1').html(Cal_json.begin_year+&quot;-&quot;+Cal_json.end_year+Cal_json.season);
+			jQuery('#line2').html(&quot;第&quot;+Cal_json.zhou_num+&quot;周&quot;);
+			jQuery('#line3').html(Cal_json.date);
+			jQuery('#line4').html(Cal_json.week);			
+		});
+	});
+	&lt;/script&gt;	
+   &lt;div id=&quot;banner&quot;&gt;
+            
+    	 	
+    	    	   
+       		&lt;img id=&quot;img_change&quot; src=&quot;/docinfo/img/banner.jpg&quot; width=&quot;947&quot; height=&quot;103&quot; /&gt;       		
+    	
+    &lt;/div&gt;
+    &lt;div id=&quot;weather&quot;&gt;
+        &lt;ul&gt;
+            &lt;li id=&quot;line1&quot;&gt;&lt;/li&gt;
+            &lt;li class=&quot;red&quot; id=&quot;line2&quot;&gt;&lt;/li&gt;
+            &lt;li id=&quot;line3&quot;&gt;&lt;/li&gt;
+            &lt;li id=&quot;line4&quot;&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+	   
+    &lt;div id=&quot;search&quot;&gt;
+    	&lt;ul&gt;
+		  &lt;li&gt;
+            &lt;input id=&quot;searchValue&quot; type=&quot;text&quot;  size=&quot;40&quot; value=&quot;请输入您要查找的关键字...&quot; style=&quot;vertical-align:middle;&quot; onFocus=&quot;searchFocus(this)&quot; onBlur=&quot;searchBlur(this)&quot;/&gt;&amp;nbsp;
+            &lt;input type=&quot;image&quot; style=&quot;vertical-align:middle;&quot; onClick=&quot;search()&quot; src=&quot;/docinfo/img/button_search.gif&quot; width=&quot;82&quot; height=&quot;21&quot; /&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;    
+    	
+  
+&lt;div id=&quot;center&quot;&gt;
+    &lt;!-- 导航部分 --&gt;
+    
+
+ 
+
+
+
+
+
+&lt;div id=&quot;nav2&quot;&gt;
+    &lt;ul&gt;
+       &lt;li&gt;&lt;span&gt;当前位置:&lt;/span&gt;
+       &lt;/li&gt;      
+                       
+       
+      
+        
+       
+         
+             
+          
+          
+          
+          
+          
+            &lt;li&gt;&amp;gt;&amp;gt;&lt;a href=&quot;../index.jsp&quot;&gt;首页&lt;/a&gt;
+            &lt;/li&gt;
+             
+          
+          
+          
+          
+             
+          
+          
+           
+                       
+            &lt;li&gt;&amp;gt;&amp;gt;&lt;a href=&quot;/docinfo/board1/boardlist.jsp?columnId=0010106&amp;parentColumnId=001&quot;&gt;教务通知&lt;/a&gt;
+            &lt;/li&gt;            
+                        
+          
+          
+        
+        
+                                               
+     &lt;/ul&gt;
+&lt;/div&gt;
+    &lt;!-- 导航部分结束 --&gt;
+    
+    
+         
+    &lt;h3&gt;
+	    &lt;span&gt;    
+	        &lt;font color=&quot;&quot;&gt;
+	          《全球经济、金融与能源前沿》第六讲(4月23日)上课通知
+	        &lt;/font&gt;
+	                        
+	    &lt;/span&gt;
+    &lt;/h3&gt;
+
+    &lt;div style=&quot;width:90%; margin:10px auto; padding-bottom:10px; border-bottom:#dcdcdc 1px solid; overflow:hidden; &quot;&gt;
+        	&lt;ul&gt;
+            	&lt;li&gt;&lt;span class=&quot;left&quot; style=&quot;padding-top:30px;&quot;&gt;
+            	     发布时间:2018-04-19
+            	     &amp;nbsp;&amp;nbsp;
+            	     访问计数:383
+            	     &lt;/span&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;span class=&quot;left&quot;&gt;&lt;/span&gt;&lt;/li&gt;                
+                
+                 &lt;li&gt;
+                   &lt;a href=&quot;javascript:window.close()&quot;&gt;&lt;span class=&quot;right&quot;&gt;[关闭窗口]&lt;/span&gt;&lt;/a&gt;
+                      
+                 &lt;/li&gt;   
+            &lt;/ul&gt;
+    &lt;/div&gt;
+    
+     &lt;div style=&quot;text-align:left; width:90%; magin:0px auto; padding-top:20px;  padding-bottom:20px;word-break:break-all;&quot;&gt;
+     &lt;span&gt;&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 12.05pt; mso-char-indent-count: 1.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: OLE_LINK1&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: _Hlk508007115&quot;&gt;&lt;B&gt;&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: OLE_LINK1&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: _Hlk508007115&quot;&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 12.05pt; mso-char-indent-count: 1.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: OLE_LINK1&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: _Hlk508007115&quot;&gt;&lt;B&gt;&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: OLE_LINK1&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: _Hlk508007115&quot;&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;&lt;IMG border=0 src=&quot;/UploadFile/7/0/f09e58a22bcbcd40ee0b5994f69eb307.jpg&quot; width=800 height=2000&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;SPAN style=&quot;mso-bookmark: OLE_LINK1&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: _Hlk508007115&quot;&gt;&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: OLE_LINK1&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: _Hlk508007115&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; mso-line-height-rule: exactly&quot;&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;题目：&lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm&quot;&gt;中国能源转型的“世界观”&lt;SPAN lang=EN-US&gt;&lt;?xml:namespace prefix = &quot;o&quot; ns = &quot;urn:schemas-microsoft-com:office:office&quot; /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; mso-line-height-rule: exactly&quot;&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;主讲：&lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;翟永平&lt;SPAN lang=EN-US&gt;&lt;SPAN style=&quot;mso-spacerun: yes&quot;&gt;&lt;FONT size=3&gt;&amp;nbsp; &lt;/FONT&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;亚洲开发银行能源部门总监&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; mso-line-height-rule: exactly&quot;&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;上课时间：&lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;4&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;月&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;25&lt;/FONT&gt;&lt;/SPAN&gt;日（周三&lt;FONT size=3&gt;&lt;SPAN style=&quot;COLOR: black&quot;&gt;）&lt;SPAN lang=EN-US&gt;19:20&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; mso-line-height-rule: exactly&quot;&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;入场时间：&lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;18:30&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; mso-line-height-rule: exactly&quot;&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;上课地点：&lt;/SPAN&gt;&lt;/B&gt;&lt;A name=_Hlk507748375&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;主讲教室：清华大学主楼后厅&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/A&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 60pt; mso-char-indent-count: 5.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: _Hlk507748375&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;同步直播教室：&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;6&lt;/FONT&gt;&lt;/SPAN&gt;教&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;A215&lt;/FONT&gt;&lt;/SPAN&gt;、深研院&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;CI-101&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 60pt; mso-char-indent-count: 5.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: _Hlk507748375&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: _Hlk508007115&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: OLE_LINK1&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&amp;nbsp;&lt;/P&gt;&lt;SPAN style=&quot;mso-bookmark: _Hlk507748375&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: _Hlk508007115&quot;&gt;&lt;SPAN style=&quot;mso-bookmark: OLE_LINK1&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; mso-line-height-rule: exactly&quot;&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;个人简介：&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;翟永平&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;,1978&lt;/FONT&gt;&lt;/SPAN&gt;年考入清华大学热能工程系，&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;1983&lt;/FONT&gt;&lt;/SPAN&gt;年本科毕业后考入清华大学核能研究院能源系统分析研究室硕士研究生。&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;1984&lt;/FONT&gt;&lt;/SPAN&gt;年赴法国格勒布诺布尔能源经济与政策研究所学习，&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;1986&lt;/FONT&gt;&lt;/SPAN&gt;年获得能源经济硕士学位、&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;1989&lt;/FONT&gt;&lt;/SPAN&gt;年获得能源经济学博士。&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;博士毕业后，&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;1990&lt;/FONT&gt;&lt;/SPAN&gt;年&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;-1993&lt;/FONT&gt;&lt;/SPAN&gt;年在曼谷亚洲理工学院能源技术系担任助理教授，教授能源需求分析预测、国际石油市场等课程，能源经济与规划专业硕士生导师。&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;1993&lt;/FONT&gt;&lt;/SPAN&gt;年&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;-2000&lt;/FONT&gt;&lt;/SPAN&gt;年在非洲开发银行担任高级能源专家，负责南部非洲（莱索托、博茨瓦纳、莫桑比克、津巴布韦、乌干达、赞比亚、坦桑尼亚、安哥拉、毛里求斯等）电力部门贷款和技术援助项目，主要涉及水电、煤电、输变电线路、农村电气化等。&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;2000&lt;/FONT&gt;&lt;/SPAN&gt;年至今在亚洲开发银行工作，先后担任东南亚局能源处首席能源专家（&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;2000-2010&lt;/FONT&gt;&lt;/SPAN&gt;）、南亚局能源处处长（&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;2010-2015&lt;/FONT&gt;&lt;/SPAN&gt;）。作为东南亚首席能源专家，负责印度尼西亚、菲律宾、越南电力部门（输变电、煤电、可再生能源、农村电气化）项目，并全面负责菲律宾电力改革和私有化的设计与实施进程。在此期间，还负责大湄公河次区域电力联网和能源区域合作。担任亚行南亚能源处处长期间，负责印度、孟加拉国、斯里兰卡、不丹、马尔代夫能源贷款业务，涉及水电等可再生能源发电、输变电线路、天然气管道等项目。&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;2015&lt;/FONT&gt;&lt;/SPAN&gt;年&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;3&lt;/FONT&gt;&lt;/SPAN&gt;月起担任亚行能源部门总监，负责亚行能源部门所有贷款项目的技术审核（每年贷款额&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;60&lt;/FONT&gt;&lt;/SPAN&gt;亿美元左右），在亚洲发展中国家推广应用低碳新技术，并代表亚行与国际能源界进行知识、技术交流。在国内，担任中国能源研究会能源经济专业委员会副主任委员、人民大学重阳金融研究院客座研究员（从事“一带一路”绿色金融研究）。&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; mso-line-height-rule: exactly&quot;&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;内容简介：&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;改革开放以来，中国能源工业取得了世人瞩目的飞跃发展，可以说&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;40&lt;/FONT&gt;&lt;/SPAN&gt;年走过了发达国家&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;100&lt;/FONT&gt;&lt;/SPAN&gt;多年的历程。对于广大的发展中国家而言，率先实现&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;100%&lt;/FONT&gt;&lt;/SPAN&gt;农户通电的中国无疑是学习的样板。然而，如果在世界的范围内来看，以安全、清洁、廉价三个维度来量化评估，中国的能源发展水平目前在国际上到底处于什么位置？中国能源系统的优势和短板又在哪里？&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;在许多国家的能源领域，中国的企业和金融机构扮演了项目投资、资金贷款、设备供应、工程设计承包等多重角色，但是相对缺失的是能源专家智力的输出。就此而言，中国能源发展的成功实践以及挫折教训都是极为宝贵的财富，需要把“摸着石头过河”的切身体验总结提升为完整的理论框架和体系。&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;走进新时代，落实“一带一路”的倡议，对于中国的专家、学者是挑战更是机遇，不仅要促进中国能源系统在安全、清洁、廉价三个维度上协调发展，也为其他发展中国家的能源经济系统等规划和发展献计献策。特别期待年轻的学子们树立“世界观”，有意识地培养自己各方面的能力，将来加入亚洲开发银行或其他国际发展机构，走出国门做国际专家为全世界的发展尽力。&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; mso-line-height-rule: exactly&quot;&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;课程说明：&lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;1.&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;该课程属于研究生学术与职业素养平台课程。本学期共组织&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;10&lt;/FONT&gt;&lt;/SPAN&gt;次讲座，累计听讲座且有效签到次数达到&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;8&lt;/FONT&gt;&lt;/SPAN&gt;次及以上，独立完成并提交课程报告，可获得&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;1&lt;/FONT&gt;&lt;/SPAN&gt;学分。&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;2.&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;该课程纳入本科生《文化素质教育讲座》课程系列之一，本科生同学可任意选听感兴趣的讲座，选听记录计入《文化素质教育讲座》课程次数。&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;3.&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;其余不拿学分者可选择旁听。&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; mso-line-height-rule: exactly&quot;&gt;&lt;B style=&quot;mso-bidi-font-weight: normal&quot;&gt;&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN lang=EN-US style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体&quot;&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot;&gt;&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 22pt; TEXT-INDENT: 24.1pt; mso-char-indent-count: 2.0; mso-line-height-rule: exactly&quot; align=left&gt;&lt;/FONT&gt;&amp;nbsp;&lt;/P&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/span&gt;
+     &lt;/div&gt;
+     
+     &lt;!-- &lt;div class=&quot;clear&quot; style=&quot;magin:20px auto;&quot;&gt;&amp;nbsp;&lt;/div&gt; --&gt;
+    &lt;div style=&quot;width:90%; margin:20px auto; padding-top:10px; border-top:#dcdcdc 1px solid&quot;&gt;
+
+    &lt;/div&gt;
+
+&lt;/div&gt;   
+
+
+
+&lt;div id=&quot;footer_s&quot;&gt;&lt;!-- 底部区域开始 --&gt;
+    	&lt;p&gt;版权所有:清华大学研究生院&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;技术支持:清华大学信息化技术中心&lt;/p&gt;
+        &lt;p style=&quot;font-family:Arial;&quot;&gt;Copyright&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-size:16px;&quot;&gt;&amp;copy;&lt;/span&gt;&amp;nbsp;&amp;nbsp;2009 Tsinghua University All Rights Reserved.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- 底部区域结束 --&gt;
+    
+
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="None" /><summary type="html">None</summary></entry><entry><title type="html">page_4_3.html</title><link href="http://localhost:4000/2018/05/28/page_4_3.html" rel="alternate" type="text/html" title="page_4_3.html" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/page_4_3</id><content type="html" xml:base="http://localhost:4000/2018/05/28/page_4_3.html">﻿
+&lt;!DOCTYPE HTML&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;zh-hans&quot; version=&quot;XHTML+RDFa 1.0&quot; dir=&quot;ltr&quot;
+  xmlns:content=&quot;http://purl.org/rss/1.0/modules/content/&quot;
+  xmlns:dc=&quot;http://purl.org/dc/terms/&quot;
+  xmlns:foaf=&quot;http://xmlns.com/foaf/0.1/&quot;
+  xmlns:og=&quot;http://ogp.me/ns#&quot;
+  xmlns:rdfs=&quot;http://www.w3.org/2000/01/rdf-schema#&quot;
+  xmlns:sioc=&quot;http://rdfs.org/sioc/ns#&quot;
+  xmlns:sioct=&quot;http://rdfs.org/sioc/types#&quot;
+  xmlns:skos=&quot;http://www.w3.org/2004/02/skos/core#&quot;
+  xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema#&quot;&gt;
+
+&lt;head profile=&quot;http://www.w3.org/1999/xhtml/vocab&quot;&gt;
+  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+&lt;link rel=&quot;shortcut icon&quot; href=&quot;http://postinfo.tsinghua.edu.cn/misc/favicon.ico&quot; type=&quot;image/vnd.microsoft.icon&quot; /&gt;
+&lt;link rel=&quot;shortlink&quot; href=&quot;/node/256075&quot; /&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;/node/256075&quot; /&gt;
+&lt;meta name=&quot;Generator&quot; content=&quot;Drupal 7 (http://drupal.org)&quot; /&gt;
+  &lt;title&gt;第9周（周一）《文化素质教育讲座》课程预告-[石磊] | 清华大学内网信息发布平台&lt;/title&gt;
+  &lt;style type=&quot;text/css&quot; media=&quot;all&quot;&gt;
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.base.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.menus.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.messages.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/system/system.theme.css?p8k4mq&quot;);
+&lt;/style&gt;
+&lt;style type=&quot;text/css&quot; media=&quot;all&quot;&gt;
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/comment/comment.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/field/theme/field.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/node/node.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/search/search.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/modules/user/user.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/sites/all/modules/views/css/views.css?p8k4mq&quot;);
+@import url(&quot;http://postinfo.tsinghua.edu.cn/sites/all/modules/ckeditor/css/ckeditor.css?p8k4mq&quot;);
+&lt;/style&gt;
+&lt;style type=&quot;text/css&quot; media=&quot;all&quot;&gt;
+@import url(&quot;http://postinfo.tsinghua.edu.cn/sites/all/modules/ctools/css/ctools.css?p8k4mq&quot;);
+&lt;/style&gt;
+  &lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/misc/jquery.js?v=1.4.4&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/misc/jquery.once.js?v=1.2&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/misc/drupal.js?p8k4mq&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://postinfo.tsinghua.edu.cn/sites/default/files/languages/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js?p8k4mq&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--//--&gt;&lt;![CDATA[//&gt;&lt;!--
+jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPrefix&quot;:&quot;&quot;,&quot;ajaxPageState&quot;:{&quot;theme&quot;:&quot;infoCms&quot;,&quot;theme_token&quot;:&quot;MztS1Xk48biihrb-dPPhGoCGc1rIzeDe35cqGetHc3E&quot;,&quot;js&quot;:{&quot;misc\/jquery.js&quot;:1,&quot;misc\/jquery.once.js&quot;:1,&quot;misc\/drupal.js&quot;:1,&quot;public:\/\/languages\/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js&quot;:1},&quot;css&quot;:{&quot;modules\/system\/system.base.css&quot;:1,&quot;modules\/system\/system.menus.css&quot;:1,&quot;modules\/system\/system.messages.css&quot;:1,&quot;modules\/system\/system.theme.css&quot;:1,&quot;modules\/comment\/comment.css&quot;:1,&quot;modules\/field\/theme\/field.css&quot;:1,&quot;modules\/node\/node.css&quot;:1,&quot;modules\/search\/search.css&quot;:1,&quot;modules\/user\/user.css&quot;:1,&quot;sites\/all\/modules\/views\/css\/views.css&quot;:1,&quot;sites\/all\/modules\/ckeditor\/css\/ckeditor.css&quot;:1,&quot;sites\/all\/modules\/ctools\/css\/ctools.css&quot;:1}}});
+//--&gt;&lt;!]]&gt;
+&lt;/script&gt;
+  &lt;link href=&quot;/sites/all/themes/infoCms/css/reset.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+	&lt;link href=&quot;/sites/all/themes/infoCms/css/nav.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+	&lt;link href=&quot;/sites/all/themes/infoCms/css/templet.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+	&lt;!-- IE8 兼容 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=EmulateIE7&quot; /&gt;
+	&lt;!-–[if IE]&gt;
+	&lt;script src=&quot;/sites/all/themes/infoCms/js/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]–-&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/jquery-1.8.1.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/jquery-ui-1.8.23.custom.min.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/gototop.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/effect.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; src=&quot;/sites/all/themes/infoCms/js/effect.js&quot;&gt;&lt;/script&gt;
+	&lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot; src=&quot;/sites/all/themes/infoCms/js/jquery.jfontsize-1.0.js&quot;&gt;&lt;/script&gt;
+	
+&lt;/head&gt;
+
+&lt;body&gt;
+	
+  ﻿&lt;!-- 整体区域开始 --&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+      &lt;!-- 中部区域开始 --&gt;
+      &lt;div class=&quot;content&quot;&gt;
+				
+&lt;!-- 内容区域 start --&gt;
+&lt;section class=&quot;cont_box some-class-name&quot;&gt;
+	
+    &lt;!-- start --&gt;
+    &lt;div class=&quot;m_nav&quot;&gt;
+    	&lt;ul class=&quot;mnav_left&quot;&gt;
+          &lt;li&gt;&lt;a href=&quot;/node/256075&quot;&gt;第9周（周一）《文化素质教育讲座》课程预告-[石磊]&lt;/a&gt;
+        &lt;/ul&gt;
+    	&lt;ul class=&quot;mnav_right&quot;&gt;
+        	&lt;li&gt;&lt;a href=&quot;/node/256075/edit&quot; class=&quot;&quot;&gt;编&amp;nbsp;&amp;nbsp;辑&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;/node/256075/delete&quot; class=&quot;&quot;&gt;删&amp;nbsp;&amp;nbsp;除&lt;/a&gt;&lt;/li&gt;
+            &lt;!--li&gt;&lt;a href=&quot;#&quot; class=&quot;&quot;&gt;&lt; 上篇&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;&quot;&gt;下篇 &gt;&lt;/a&gt;&lt;/li--&gt;
+            &lt;!--li&gt;&lt;a href=&quot;/f/jiaowugonggao/more&quot; class=&quot;&quot;&gt;返回&lt;/a&gt;&lt;/li--&gt;
+        &lt;/ul&gt;
+        
+    &lt;/div&gt;
+    &lt;!-- end --&gt;
+    
+    &lt;!-- 文章区域 start --&gt;
+    &lt;div class=&quot;cont_doc_box&quot;&gt;
+    	&lt;h5&gt;&lt;span&gt;第9周（周一）《文化素质教育讲座》课程预告-[石磊]&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; [文化素质教育基地办公室&amp;nbsp;&amp;nbsp;&amp;nbsp;2018-04-19]&lt;/h5&gt;
+      &lt;div style=&quot;clear:left;&quot;&gt;
+      	&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;《生态文明十五讲》暨《文化素质教育讲座》课程预告&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;简介：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;        《生态文明十五讲》课程将邀请我校在各领域长期开展生态文明研究和实践的4位院士和10位教授从不同领域、不同角度阐述对生态文明的理解，说明生态文明的由来，介绍当前生态文明建设实践，分析生态文明建设的有效途径和创新方向，共同探讨全球性的环境污染、生态破坏和气候变化是怎么出现的？全球性的环境污染、生态破坏、气候变化与资本主义工业文明有何内在关联？为什么粗放式、高消耗、低效益的线性发展是不可持续的？为什么必须建设生态文明？为建设生态文明，应如何改变能源结构？应如何改变经济增长方式和产业结构？必须激励何种科技创新？必须制定何种法律体系？必须树立何种自然观、知识观（科学观）、价值观、人生观、幸福观？应如何改变消费偏好和消费方式？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主办单位：&lt;/strong&gt;清华大学生态文明研究中心&lt;/p&gt;
+&lt;p&gt;                  清华大学国家大学生文化素质教育基地&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第九讲    &lt;/strong&gt;&lt;strong&gt;工业生态学&lt;/strong&gt;&lt;br /&gt;
+演讲人：清华大学  石磊  副研究员&lt;br /&gt;
+日    期：2018年4月23日（周一）13：30&lt;br /&gt;
+地    点：第六教学楼6A017教室&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;演讲人简介：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;       石磊，清华大学环境学院副研究员，国家环境保护生态工业重点实验室清华分室主任，中国生态学会产业生态专业委员会主任，《Journal of Industrial Ecology》亚洲办公室主任，《Journal of Cleaner Production》副主编，第10届国际产业生态学大会主席（2019）。主要研究兴趣包括：1）工业生态系统复杂性，解析区域产业共生体系、环保产业和化工产业的复杂性，服务于生态工业园区规划和产业技术政策制定；2）物质代谢，解析特定元素、物质和社会经济系统的物质代谢过程，服务于循环经济规划。&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本讲简介：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;       工业文明要步入生态文明必然需要以生态为导向的系列创新。工业生态学就是旨在研究工业生态化进程中出现的新的事物和现象，总结规律，师法自然，为工业系统的可持续转型提供理论指导和决策支撑。本讲座重点讲授工业生态学的发展历程和基本框架，结合典型案例来阐述工业生态学的基本方法工具和工业生态化途径。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特别提示：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;       1.从2015年3月2日起，清华大学《生态文明十五讲》课程列入《文化素质教育讲座》课程，并按该课程要求举办，没有选修《生态文明十五讲》的本科生可以按《文化素质教育讲座》课程选听讲座，请携带学生IC卡刷卡入场。&lt;/p&gt;
+&lt;p&gt;       2.第六教学楼6A017教室入场时间为当日13：00。根据《北京市消防条例（2011修订）》相关规定，为确保安全，入场人数控制在110人，额满即止。&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;      	&lt;br/&gt;&lt;br/&gt;
+				&lt;!--附件start--&gt;
+    		&lt;div style=&quot;margin-left:25px;&quot;&gt;&lt;/div&gt;
+				&lt;!--附件end--&gt;
+    	&lt;/div&gt;
+  	&lt;/div&gt;
+    &lt;!-- 文章区域 end --&gt;
+&lt;/section&gt;
+&lt;!-- 内容区域 end --&gt; 
+
+                 
+    	&lt;/div&gt;
+      &lt;!-- 中部区域结束 --&gt;
+      
+      &lt;!-- 返回顶部 start --&gt;
+      &lt;div id=&quot;topcontrol&quot; title=&quot;返回顶部&quot;&gt;&lt;/div&gt;
+      &lt;!-- 返回顶部 end --&gt;
+      
+&lt;/div&gt;
+&lt;!-- 整体区域结束 --&gt;
+
+
+  
+	
+&lt;/body&gt;
+&lt;script&gt;
+			//搜索回车
+			document.onkeydown = function(e){ 
+				  var ev = document.all ? window.event : e;
+					if(ev.keyCode==13&amp;&amp;$(&quot;#edit-key&quot;).length&gt;0) {
+ 						$('#edit-submit').trigger(&quot;click&quot;);
+					}
+			}
+  		$(&quot;#edit-submit&quot;).click(function(){
+  				if($(&quot;#edit-key&quot;).length&gt;0) {
+		  				var key = $(&quot;#edit-key&quot;).val();
+		  				var type = $(&quot;#edit-type&quot;).val();
+		  				if(key == null || key.length == 0){
+		  					 alert('请输入关键字!');	
+		  				}else{
+		  					 var searchUrl = &quot;/search/site/&quot;+key+&quot;?f[0]=bundle:&quot;+type+&quot;&amp;retain-filters=1&amp;solrsort=ds_created%20desc&quot;;
+		  					 window.open(searchUrl);
+		  				}
+  				}
+  		});
+
+  		//将title替换为形如“办公通知 | 清华大学内网信息发布平台”的样子
+  		$( document ).ready(function() {
+  		  var h3s = $(&quot;.cont_list_box &gt; h3 &gt; span&quot;);
+  		  if(h3s.length &gt; 0 &amp;&amp; $.trim(h3s[0].innerText)){
+  			document.title = h3s[0].innerText.replace(/列表$/,'') + ' | ' + document.title;
+  		  }
+		});
+&lt;/script&gt;
+
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="None" /><summary type="html">None</summary></entry><entry><title type="html">page_4_2.html</title><link href="http://localhost:4000/2018/05/28/page_4_2.html" rel="alternate" type="text/html" title="page_4_2.html" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/page_4_2</id><content type="html" xml:base="http://localhost:4000/2018/05/28/page_4_2.html">&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=gb2312&quot;&gt;
+&lt;title&gt;教务处办公信息系统&lt;/title&gt;
+&lt;link href=&quot;/jwcbg/css/index.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;!--
+body {
+	background-color: #EFEFEF;
+}
+--&gt;
+&lt;/style&gt;&lt;/head&gt;
+
+&lt;body background=&quot;images/1_r7_c2.gif&quot; leftmargin=&quot;0&quot; topmargin=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+&lt;table width=&quot;992&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;98&quot; background=&quot;/jwcbg/images/ban_wdh.gif&quot; bgcolor=&quot;#FFFFFF&quot;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;4&quot; background=&quot;/jwcbg/images/bg_ban_wdh.gif&quot; bgcolor=&quot;1C82D1&quot;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table width=&quot;992&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; bgcolor=&quot;#FFFFFF&quot;&gt;
+  &lt;tr&gt;
+    &lt;td valign=&quot;top&quot;&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;table width=&quot;992&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&amp;nbsp;&lt;/td&gt; &lt;td width=&quot;60&quot;&gt;&amp;nbsp;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+		&lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; &gt;
+			  &lt;tr&gt;                
+             &lt;td &gt;
+             	&lt;div align=&quot;center&quot; class=&quot;TD4&quot;&gt;关于2018年本科生转专业工作的通知&lt;/div&gt;
+             	&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;10&quot; colspan=&quot;4&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+		&lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; &gt;
+			 &lt;tr &gt;
+              &lt;td align=center&gt;
+                  	【分类: 教务科】&amp;nbsp;&amp;nbsp;【发布时间: 2018-04-20】&amp;nbsp;&amp;nbsp;【访问计数:2649】
+                  			
+                  			&lt;/td&gt;
+                 
+  &lt;/tr&gt;
+			  &lt;tr &gt;               
+             &lt;td align=&quot;right&quot;&gt;
+                    &lt;SCRIPT language=JavaScript type=text/JavaScript&gt;
+							function shutwin(){
+							window.close();
+							return;}
+					  &lt;/SCRIPT&gt;
+                    &amp;nbsp;&amp;nbsp;&lt;A
+            href=&quot;javascript:shutwin();&quot; &gt;&lt;font color=&quot;#0066cc&quot;&gt;【关闭窗口】&lt;/font&gt;&lt;/A&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+      &lt;table width=&quot;90%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                &lt;tr&gt;
+                  &lt;td bgcolor=&quot;#F2F2F2&quot; style=&quot;border-left:#B7B6B6 1px solid;border-right:#B7B6B6 1px solid;border-top:#B7B6B6 1px solid;border-bottom:#B7B6B6 1px solid;&quot;&gt;&lt;table width=&quot;80%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                      &lt;tr&gt;
+                        &lt;td height=&quot;9&quot;&gt;&lt;/td&gt;
+                      &lt;/tr&gt;
+                    &lt;/table&gt;
+                      &lt;table width=&quot;98%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; bgcolor=&quot;#FFFFFF&quot;&gt;
+                        &lt;tr&gt;
+                          &lt;td&gt;&amp;nbsp;&lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                          &lt;td&gt;
+
+			    &lt;table width=&quot;90%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                           
+              &lt;tr&gt;
+                &lt;td height=&quot;15&quot; &gt;&lt;/td&gt;
+              &lt;/tr&gt;
+            &lt;/table&gt;
+              &lt;table width=&quot;90%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                &lt;tr&gt;
+                  &lt;td colspan=&quot;4&quot;&gt;&lt;DIV align=right&gt;&lt;A name=OLE_LINK6&gt;&lt;/A&gt;&lt;A name=OLE_LINK5&gt;&lt;/A&gt;&lt;A name=OLE_LINK4&gt;清教发&lt;/A&gt;[2018]23号&lt;/DIV&gt;
+&lt;DIV&gt;2016级、2017级本科生同学：&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2018年全校本科生转专业工作按照《清华大学本科生学籍管理规定》和《关于2017级本科生大类专业确认工作的指导意见》的有关要求实施。2017级本科生大类专业确认第二阶段（专业微调）与2016级本科生转专业同期进行。&lt;/DIV&gt;
+&lt;DIV&gt;现将有关要求和日程安排通知如下，请遵照执行。&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 一、本科生申请转专业的条件&lt;/B&gt;：&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 根据教育部有关规定，艺术类学生不得转到非艺术类专业学习（美术学院学生可在院内转专业），体育类专业学生不得转到普通类专业，外国语中学推荐保送录取的学生不得转到非外语类专业，定向生转专业应征得有关部门同意。我校医学院临床医学专业不再接收非八年制转专业学生。&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 各院系接收转专业计划和具体接收条件详见《2018年院系接收转专业学生计划》（附件1）。如需了解详细情况，请直接与相关院系联系。&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 原则上2017级转出学生人数不超出专业基准数的15%，2016级转出学生人数不超出本年级专业人数的10%。&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 转专业学生只能申请一个专业。申请跨学科大类转专业的学生转专业后有可能编入低一年级学习。&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 转专业同学应慎重退课。根据《清华大学本科生学籍管理规定》第三十九条，学生连续两个学期（春季、秋季）每学期所取得学分少于6学分的予以退学处理。&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 二、本科生转专业工作日程：&lt;/B&gt;&lt;/DIV&gt;
+&lt;P&gt;
+&lt;TABLE cellSpacing=0 cellPadding=0 border=1&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD width=180&gt;
+&lt;DIV&gt;4月20日～24日&lt;/DIV&gt;&lt;/TD&gt;
+&lt;TD width=463&gt;
+&lt;DIV&gt;学生开始网上报名转专业，以网上提交申请的学生名单为准。接收院系提供咨询服务（工作时间）。&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD width=180&gt;
+&lt;DIV&gt;4月25日～29日&lt;/DIV&gt;&lt;/TD&gt;
+&lt;TD width=463&gt;
+&lt;DIV&gt;接收院系对转专业学生进行考评，并于4月29日前在网上提交拟录取名单。&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD width=180&gt;
+&lt;DIV&gt;5月11日～15日&lt;/DIV&gt;&lt;/TD&gt;
+&lt;TD width=463&gt;
+&lt;DIV&gt;教务处公示转专业学生名单（见教务公告）&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD width=180&gt;
+&lt;DIV&gt;5月23日之前&lt;/DIV&gt;&lt;/TD&gt;
+&lt;TD width=463&gt;
+&lt;DIV&gt;转专业学生在网上申请课程认定。&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD width=180&gt;
+&lt;DIV&gt;本学期期末&lt;/DIV&gt;&lt;/TD&gt;
+&lt;TD width=463&gt;
+&lt;DIV&gt;本学期期末(7月2日开始)集中办理转专业手续，由转专业学生将学籍卡片从原院系交至转入院系&lt;/DIV&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/P&gt;
+&lt;DIV&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 三、学生网上申请方法&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 登录“信息门户――综合――快捷导航――学习”下面的二级菜单“转专业申请”，点击“转专业申请”进去后有四条链接：&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1、 &lt;/B&gt;&lt;B&gt;学生申请转专业记录&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 学生在网上填写申请表后可以提交，也可以选择暂存（选择暂存可以在这里查看，修改。选择暂存的同学在24日晚上24点申请截止时间前一定不要忘记提交申请表，否则申请无效）。在申请日期内可以提交申请表，提交了申请表后也可以删除，过了申请日期不能删除。&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 学生在填写申请表时，一定要正确填写手机号码、Email等个人信息。&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2、 &lt;/B&gt;&lt;B&gt;院系报名人数查看&lt;/B&gt;&lt;B&gt;&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 在这里可查看院系的接收计划，并填写申请表，院系要求提交的其他材料的电子版，可以附件形式上传（多个文件可以压缩文件形式上传）。转专业名单以网申为准，没有网上申报的学生不能转专业。网上填写申请表后，一般不需要再向院系提交纸质版申请表，如果院系需要学生提供纸质版材料，请按照院系要求提交。&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;3、 &lt;/B&gt;&lt;B&gt;录取情况查看&lt;/B&gt;&lt;B&gt;&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 转专业名单公示后，学生可以在这里查看自己的录取情况。&lt;/DIV&gt;
+&lt;DIV&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4、 &lt;/B&gt;&lt;B&gt;转专业替代课&lt;/B&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 转专业课程认定申请流程：在5月11日转专业名单公示后，学生可进行转专业课程认定的网上申请。学生可对已有成绩记录的课程进行认定，但必须认定为转入院系的培养计划中的课程。学生如果不清楚能替代哪门课，可咨询接收院系教务老师。核查无误后于5月23日之前提交申请。5月25日之前转入院系教学办公室对学生提交的申请进行审核并提交，由注册中心进行最终审核，审核无误后会进行成绩数据处理，6月1日生效后学生可在个人培养方案完成情况中即时查看结果。&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 注意：如果使用低版本的IE，页面中的数据可能会一直不显示。建议用IE11非兼容模式、谷歌或火狐浏览器)&lt;/DIV&gt;
+&lt;DIV&gt;网申过程中如有&lt;B&gt;系统技术问题&lt;/B&gt;请咨询信息化技术中心，电话：627 71940。&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 四、转专业支持&lt;/DIV&gt;
+&lt;DIV&gt;关于转专业的管理文件和建议参见网站“教学门户――学生指南――转专业――关于转专业的几点建议”。&lt;/DIV&gt;
+&lt;DIV&gt;另外，学生学习与发展指导中心提供“一对一咨询”项目，可以帮助同学们科学理性评估转专业决策、探讨转专业准备及转专业后学业规划等其他相关问题，电话：62792453。“一对一咨询”预约指南网址如下：&lt;/DIV&gt;
+&lt;DIV&gt;&lt;A href=&quot;http://bmxxfb.cic.tsinghua.edu.cn/docinfo/board/boarddetail.jsp?columnId=xxfzzdzx04&amp;amp;parentColumnId=xxfzzdzx&amp;amp;itemSeq=20689&quot; target=_blank&gt;http://bmxxfb.cic.tsinghua.edu.cn/docinfo/board5/boardlist.jsp?columnId=02102&amp;amp;parentColumnId=02102&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 教务处联系电话：62772337&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&lt;IMG border=0 src=&quot;/editor_new/sysimage/file/xls.gif&quot;&gt;&lt;A href=&quot;/download.jsp?attachSeq=2651&quot;&gt;2018年各院系转专业接收计划-汇总.xls&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV&gt;教 务 处&lt;/DIV&gt;
+&lt;DIV&gt;2018年4月20日&lt;/DIV&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                  &lt;td height=&quot;30&quot; colspan=&quot;4&quot;&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+						  
+						  &lt;/td&gt;
+                        &lt;/tr&gt;
+                        &lt;tr&gt;
+                          &lt;td  height=&quot;8&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;
+
+                    &lt;table width=&quot;80%&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+                        &lt;tr&gt;
+                          &lt;td height=&quot;9&quot;&gt;&lt;/td&gt;
+                        &lt;/tr&gt;
+                    &lt;/table&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+          &lt;/table&gt;
+                              		&lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; &gt;
+  &lt;tr align=&quot;center&quot;&gt;
+   &lt;td width=&quot;10%&quot;&gt;&lt;/td&gt;
+                  &lt;td colspan=&quot;2&quot; width=75% align=right&gt;
+                &lt;A
+            href=&quot;javascript:shutwin();&quot; &gt;&lt;font color=&quot;#0066cc&quot;&gt;【关闭窗口】&lt;/font&gt;&lt;/A&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;10&quot; colspan=&quot;4&quot;&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+        &lt;br&gt;
+
+
+    &lt;/div&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt; 
+
+&lt;script language=&quot;javascript&quot;&gt;
+
+function chuanold(oldid,nrid)
+{
+ document.forms[0].oldseq.value=oldid;
+ document.forms[0].temp_content.value=nrid;
+}
+
+&lt;/script&gt;
+
+&lt;table width=&quot;992&quot; border=&quot;0&quot; align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+    &lt;tr&gt;
+    &lt;td height=&quot;3&quot; background=&quot;/jwcbg/images/bg_ban_wdh.gif&quot; bgcolor=&quot;#1C82D1&quot;&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td height=&quot;24&quot; bgcolor=&quot;#B1DDFF&quot;&gt;&lt;div align=&quot;center&quot;&gt;版权所有：清华大学教务处&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 技术支持：清华大学计算机与信息管理中心&lt;/div&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="None" /><summary type="html">None</summary></entry><entry><title type="html">page_4_19.html</title><link href="http://localhost:4000/2018/05/28/page_4_19.html" rel="alternate" type="text/html" title="page_4_19.html" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/page_4_19</id><content type="html" xml:base="http://localhost:4000/2018/05/28/page_4_19.html">&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=GBK&quot;&gt;
+&lt;title&gt;研究生院办公网内网&lt;/title&gt;
+
+&lt;link href=&quot;/docinfo/css/page.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;/&gt;
+
+
+
+&lt;/head&gt;
+
+
+&lt;script language=&quot;javascript&quot;&gt;
+&lt;!--
+function commentCheck(){
+	if(document.forms(0).content.value==&quot;&quot;){
+		alert(&quot;评论内容不能为空!&quot;);
+		document.forms(0).content.focus();
+		return false;
+	}
+	if(document.forms(0).anonymous.value==&quot;1&quot;&amp;&amp;
+	document.forms(0).nickName.value==&quot;&quot;){
+		document.forms(0).nickName.value=&quot;匿名&quot;;
+	}
+	return true;
+}
+--&gt;
+&lt;/script&gt;
+&lt;!-- 得到请求参数 --&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;!-- 得到infoColumnVo --&gt;
+
+
+&lt;!-- 得到参数VO --&gt;
+
+ 
+
+  &lt;!-- 文档计数+1 --&gt;
+
+
+
+
+
+
+&lt;body &gt;
+
+ 
+
+
+
+
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/js/jquery-1[1].3.2.min.js&quot;&gt;&lt;/script&gt; 
+&lt;script type=&quot;text/javascript&quot; src=&quot;/js/jxrl-1.0.js&quot;&gt;&lt;/script&gt; 
+
+
+&lt;script type=&quot;text/JavaScript&quot;&gt;
+&lt;!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i&lt;a.length; i++)
+    if (a[i].indexOf(&quot;#&quot;)!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&amp;&amp;i&lt;a.length&amp;&amp;(x=a[i])&amp;&amp;x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf(&quot;?&quot;))&gt;0&amp;&amp;parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&amp;&amp;d.all) x=d.all[n]; for (i=0;!x&amp;&amp;i&lt;d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&amp;&amp;d.layers&amp;&amp;i&lt;d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x &amp;&amp; d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i&lt;(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//--&gt;
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+function search(){
+		var searchValue = document.getElementById('searchValue').value.replace(/^\s+|\s+$/g,&quot;&quot;);;
+		if(searchValue == '请输入您要查找的关键字...')searchValue = '';
+		if(searchValue == ''){
+          alert(&quot;请输入您要查找的关键字&quot;);         
+          document.getElementById('searchValue').focus(); 
+        }else{  
+		  var str = &quot;/docinfo/search.jsp?searchTitle=&quot; + escape(searchValue);
+		  window.open(str);
+		  //window.location.href(str);
+		}		
+}
+
+function searchFocus(text){
+		text.value = '';
+}
+	
+function searchBlur(text){
+		if(text.value == '')
+			text.value = '请输入您要查找的关键字...';
+}
+	
+&lt;/Script&gt;
+
+
+
+
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+
+	
+	&lt;script&gt;
+	$(document).ready(function(){	  
+		getCal_json(&quot;/portal/proxy/tsxx&quot;,function(Cal_json){		    
+			jQuery('#line1').html(Cal_json.begin_year+&quot;-&quot;+Cal_json.end_year+Cal_json.season);
+			jQuery('#line2').html(&quot;第&quot;+Cal_json.zhou_num+&quot;周&quot;);
+			jQuery('#line3').html(Cal_json.date);
+			jQuery('#line4').html(Cal_json.week);			
+		});
+	});
+	&lt;/script&gt;	
+   &lt;div id=&quot;banner&quot;&gt;
+            
+    	 	
+    	    	   
+       		&lt;img id=&quot;img_change&quot; src=&quot;/docinfo/img/banner.jpg&quot; width=&quot;947&quot; height=&quot;103&quot; /&gt;       		
+    	
+    &lt;/div&gt;
+    &lt;div id=&quot;weather&quot;&gt;
+        &lt;ul&gt;
+            &lt;li id=&quot;line1&quot;&gt;&lt;/li&gt;
+            &lt;li class=&quot;red&quot; id=&quot;line2&quot;&gt;&lt;/li&gt;
+            &lt;li id=&quot;line3&quot;&gt;&lt;/li&gt;
+            &lt;li id=&quot;line4&quot;&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+	   
+    &lt;div id=&quot;search&quot;&gt;
+    	&lt;ul&gt;
+		  &lt;li&gt;
+            &lt;input id=&quot;searchValue&quot; type=&quot;text&quot;  size=&quot;40&quot; value=&quot;请输入您要查找的关键字...&quot; style=&quot;vertical-align:middle;&quot; onFocus=&quot;searchFocus(this)&quot; onBlur=&quot;searchBlur(this)&quot;/&gt;&amp;nbsp;
+            &lt;input type=&quot;image&quot; style=&quot;vertical-align:middle;&quot; onClick=&quot;search()&quot; src=&quot;/docinfo/img/button_search.gif&quot; width=&quot;82&quot; height=&quot;21&quot; /&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;    
+    	
+  
+&lt;div id=&quot;center&quot;&gt;
+    &lt;!-- 导航部分 --&gt;
+    
+
+ 
+
+
+
+
+
+&lt;div id=&quot;nav2&quot;&gt;
+    &lt;ul&gt;
+       &lt;li&gt;&lt;span&gt;当前位置:&lt;/span&gt;
+       &lt;/li&gt;      
+                       
+       
+      
+        
+       
+         
+             
+          
+          
+          
+          
+          
+            &lt;li&gt;&amp;gt;&amp;gt;&lt;a href=&quot;../index.jsp&quot;&gt;首页&lt;/a&gt;
+            &lt;/li&gt;
+             
+          
+          
+          
+          
+             
+          
+          
+           
+                       
+            &lt;li&gt;&amp;gt;&amp;gt;&lt;a href=&quot;/docinfo/board1/boardlist.jsp?columnId=0010106&amp;parentColumnId=001&quot;&gt;教务通知&lt;/a&gt;
+            &lt;/li&gt;            
+                        
+          
+          
+        
+        
+                                               
+     &lt;/ul&gt;
+&lt;/div&gt;
+    &lt;!-- 导航部分结束 --&gt;
+    
+    
+         
+    &lt;h3&gt;
+	    &lt;span&gt;    
+	        &lt;font color=&quot;&quot;&gt;
+	          2018年4月专业学位研究生培养项目论证公开征集意见
+	        &lt;/font&gt;
+	                        
+	    &lt;/span&gt;
+    &lt;/h3&gt;
+
+    &lt;div style=&quot;width:90%; margin:10px auto; padding-bottom:10px; border-bottom:#dcdcdc 1px solid; overflow:hidden; &quot;&gt;
+        	&lt;ul&gt;
+            	&lt;li&gt;&lt;span class=&quot;left&quot; style=&quot;padding-top:30px;&quot;&gt;
+            	     发布时间:2018-04-10
+            	     &amp;nbsp;&amp;nbsp;
+            	     访问计数:381
+            	     &lt;/span&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;span class=&quot;left&quot;&gt;&lt;/span&gt;&lt;/li&gt;                
+                
+                 &lt;li&gt;
+                   &lt;a href=&quot;javascript:window.close()&quot;&gt;&lt;span class=&quot;right&quot;&gt;[关闭窗口]&lt;/span&gt;&lt;/a&gt;
+                      
+                 &lt;/li&gt;   
+            &lt;/ul&gt;
+    &lt;/div&gt;
+    
+     &lt;div style=&quot;text-align:left; width:90%; magin:0px auto; padding-top:20px;  padding-bottom:20px;word-break:break-all;&quot;&gt;
+     &lt;span&gt;&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 18.9pt; TEXT-INDENT: 21pt; mso-char-indent-count: 2.0&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;根据研究生院制定的&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;“&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;新增研究生培养项目设置与管理办法&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;”&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;，研究生院于&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;2018&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;年&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;4&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;月&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;10&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;日对我校新增&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;“&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;计算法学硕士项目&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;”&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;、&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;“&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;集成电路技术与管理全日制专业学位项目&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;”&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;、&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;“&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;高级公共管理硕士（&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;EMPA&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;）香港政务人才培养项目&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;”&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;组织了项目论证会，项目获得&lt;SPAN style=&quot;BACKGROUND: #f4fcff&quot;&gt;&lt;FONT size=3&gt;与会专家&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; BACKGROUND: #f4fcff; COLOR: black'&gt;2/3&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; BACKGROUND: #f4fcff; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;或以上的同意票数，通过论证。&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;现就项目开办在全校公开征集意见，项目简介请见附件。&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;&lt;?xml:namespace prefix = &quot;o&quot; ns = &quot;urn:schemas-microsoft-com:office:office&quot; /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 18.9pt; TEXT-INDENT: 21pt; mso-char-indent-count: 2.0&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;如需了解项目详细情况，请到研究生院专业硕士办公室（李兆基科技大楼&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;B332-1&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;）查看项目申请书。公开征集意见时间为&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;7&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;天，截至&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;4&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;月&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;16&lt;/SPAN&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;日。&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 18.9pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;联系人：李鹏辉&lt;/SPAN&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt; 62773118&lt;/SPAN&gt;&lt;SPAN class=apple-converted-space&gt;&lt;SPAN style=&quot;FONT-SIZE: 10.5pt; COLOR: black; mso-ascii-font-family: Simsun; mso-hansi-font-family: Simsun&quot;&gt;，&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN lang=EN-US&gt;&lt;A&gt;&lt;SPAN style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif'&gt;lpenghui@tsinghua.edu.cn&lt;/SPAN&gt;&lt;/A&gt;&lt;/SPAN&gt;&lt;SPAN class=MsoHyperlink&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif'&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 18.9pt&quot;&gt;&lt;SPAN class=MsoHyperlink&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif'&gt;&lt;o:p&gt;&lt;SPAN style=&quot;TEXT-DECORATION: none&quot;&gt;&lt;U&gt;&lt;FONT color=#0000ff size=3&gt;&lt;/FONT&gt;&lt;/U&gt;&lt;/SPAN&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 18.9pt&quot;&gt;&lt;SPAN class=apple-converted-space&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;DIV align=center&gt;
+&lt;TABLE class=MsoNormalTable style=&quot;WIDTH: 439.45pt; BORDER-COLLAPSE: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt&quot; cellSpacing=0 cellPadding=0 border=0&gt;
+&lt;TBODY&gt;
+&lt;TR style=&quot;HEIGHT: 32.25pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes&quot;&gt;
+&lt;TD style=&quot;BORDER-TOP: windowtext 1pt solid; HEIGHT: 32.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 35.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-alt: solid windowtext .5pt&quot; width=47 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt&quot; align=center&gt;&lt;B&gt;&lt;SPAN style=&quot;COLOR: black&quot;&gt;&lt;FONT size=3&gt;序号&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: windowtext 1pt solid; HEIGHT: 32.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 70.9pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=95 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt&quot; align=center&gt;&lt;B&gt;&lt;SPAN style=&quot;COLOR: black&quot;&gt;&lt;FONT size=3&gt;院系名称&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: windowtext 1pt solid; HEIGHT: 32.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 92.1pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=123 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt&quot; align=center&gt;&lt;B&gt;&lt;SPAN style=&quot;COLOR: black&quot;&gt;&lt;FONT size=3&gt;项目类别&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: windowtext 1pt solid; HEIGHT: 32.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=198 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt&quot; align=center&gt;&lt;B&gt;&lt;SPAN style=&quot;COLOR: black&quot;&gt;&lt;FONT size=3&gt;项目名称&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: windowtext 1pt solid; HEIGHT: 32.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 92.15pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-top-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=123 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt&quot; align=center&gt;&lt;B&gt;&lt;SPAN style=&quot;COLOR: black&quot;&gt;&lt;FONT size=3&gt;项目负责人&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR style=&quot;HEIGHT: 38.25pt; mso-yfti-irow: 1&quot;&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 38.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 35.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt&quot; width=47 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt&quot; align=center&gt;&lt;SPAN lang=EN-US style=&quot;COLOR: black&quot;&gt;&lt;FONT size=3&gt;1&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 38.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 70.9pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=95 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;法学院&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 38.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 92.1pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=123 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;全日制法律硕士&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 38.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=198 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;计算法学硕士项目&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 38.25pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 92.15pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=123 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;申卫星&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR style=&quot;HEIGHT: 42.75pt; mso-yfti-irow: 2&quot;&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 42.75pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 35.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt&quot; width=47 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt&quot; align=center&gt;&lt;SPAN lang=EN-US style=&quot;COLOR: black&quot;&gt;&lt;FONT size=3&gt;2&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 42.75pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 70.9pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=95 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;微纳电子系&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 42.75pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 92.1pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=123&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;全日制工程硕士&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 42.75pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=198&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;“集成电路技术与管理”&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;全日制专业学位项目&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 42.75pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 92.15pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=123 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;魏少军、池保勇&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR style=&quot;HEIGHT: 42.75pt; mso-yfti-irow: 3; mso-yfti-lastrow: yes&quot;&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 42.75pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 35.45pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt&quot; width=47 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt&quot; align=center&gt;&lt;SPAN lang=EN-US style=&quot;COLOR: black&quot;&gt;&lt;FONT size=3&gt;3&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 42.75pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 70.9pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=95 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;公管学院&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 42.75pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 92.1pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=123&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;非全日制公共管理硕士&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 42.75pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 148.85pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=198&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;高级公共管理硕士（&lt;SPAN lang=EN-US&gt;&lt;FONT size=3&gt;EMPA&lt;/FONT&gt;&lt;/SPAN&gt;）香港政务人才项目&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD style=&quot;BORDER-TOP: #f0f0f0; HEIGHT: 42.75pt; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 92.15pt; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent; mso-border-bottom-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt&quot; width=123 noWrap&gt;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 0pt&quot;&gt;&lt;SPAN style=&quot;FONT-SIZE: 11pt; COLOR: black; mso-bidi-font-size: 12.0pt&quot;&gt;潘洁&lt;SPAN lang=EN-US&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/DIV&gt;
+&lt;DIV align=center&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV align=center&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV align=center&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;DIV align=center&gt;&lt;IMG border=0 src=&quot;/editor_new/sysimage/file/unknow.gif&quot;&gt;&lt;A href=&quot;/download.jsp?attachSeq=8283&quot;&gt;2018年4月拟新增专业学位研究生培养项目简介.docx&lt;/A&gt;&lt;/DIV&gt;
+&lt;DIV align=center&gt;&amp;nbsp;&lt;/DIV&gt;
+&lt;P style=&quot;VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; TEXT-ALIGN: justify; TEXT-JUSTIFY: inter-ideograph; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 18.9pt&quot;&gt;&lt;SPAN lang=EN-US style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Simsun&quot;,serif; COLOR: black'&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/span&gt;
+     &lt;/div&gt;
+     
+     &lt;!-- &lt;div class=&quot;clear&quot; style=&quot;magin:20px auto;&quot;&gt;&amp;nbsp;&lt;/div&gt; --&gt;
+    &lt;div style=&quot;width:90%; margin:20px auto; padding-top:10px; border-top:#dcdcdc 1px solid&quot;&gt;
+
+    &lt;/div&gt;
+
+&lt;/div&gt;   
+
+
+
+&lt;div id=&quot;footer_s&quot;&gt;&lt;!-- 底部区域开始 --&gt;
+    	&lt;p&gt;版权所有:清华大学研究生院&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;技术支持:清华大学信息化技术中心&lt;/p&gt;
+        &lt;p style=&quot;font-family:Arial;&quot;&gt;Copyright&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-size:16px;&quot;&gt;&amp;copy;&lt;/span&gt;&amp;nbsp;&amp;nbsp;2009 Tsinghua University All Rights Reserved.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- 底部区域结束 --&gt;
+    
+
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="None" /><summary type="html">None</summary></entry><entry><title type="html">page_4_18.html</title><link href="http://localhost:4000/2018/05/28/page_4_18.html" rel="alternate" type="text/html" title="page_4_18.html" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/page_4_18</id><content type="html" xml:base="http://localhost:4000/2018/05/28/page_4_18.html">&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=GBK&quot;&gt;
+&lt;title&gt;研究生院办公网内网&lt;/title&gt;
+
+&lt;link href=&quot;/docinfo/css/page.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;/&gt;
+
+
+
+&lt;/head&gt;
+
+
+&lt;script language=&quot;javascript&quot;&gt;
+&lt;!--
+function commentCheck(){
+	if(document.forms(0).content.value==&quot;&quot;){
+		alert(&quot;评论内容不能为空!&quot;);
+		document.forms(0).content.focus();
+		return false;
+	}
+	if(document.forms(0).anonymous.value==&quot;1&quot;&amp;&amp;
+	document.forms(0).nickName.value==&quot;&quot;){
+		document.forms(0).nickName.value=&quot;匿名&quot;;
+	}
+	return true;
+}
+--&gt;
+&lt;/script&gt;
+&lt;!-- 得到请求参数 --&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;!-- 得到infoColumnVo --&gt;
+
+
+&lt;!-- 得到参数VO --&gt;
+
+ 
+
+  &lt;!-- 文档计数+1 --&gt;
+
+
+
+
+
+
+&lt;body &gt;
+
+ 
+
+
+
+
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;/js/jquery-1[1].3.2.min.js&quot;&gt;&lt;/script&gt; 
+&lt;script type=&quot;text/javascript&quot; src=&quot;/js/jxrl-1.0.js&quot;&gt;&lt;/script&gt; 
+
+
+&lt;script type=&quot;text/JavaScript&quot;&gt;
+&lt;!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i&lt;a.length; i++)
+    if (a[i].indexOf(&quot;#&quot;)!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&amp;&amp;i&lt;a.length&amp;&amp;(x=a[i])&amp;&amp;x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf(&quot;?&quot;))&gt;0&amp;&amp;parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&amp;&amp;d.all) x=d.all[n]; for (i=0;!x&amp;&amp;i&lt;d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&amp;&amp;d.layers&amp;&amp;i&lt;d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x &amp;&amp; d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i&lt;(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//--&gt;
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+function search(){
+		var searchValue = document.getElementById('searchValue').value.replace(/^\s+|\s+$/g,&quot;&quot;);;
+		if(searchValue == '请输入您要查找的关键字...')searchValue = '';
+		if(searchValue == ''){
+          alert(&quot;请输入您要查找的关键字&quot;);         
+          document.getElementById('searchValue').focus(); 
+        }else{  
+		  var str = &quot;/docinfo/search.jsp?searchTitle=&quot; + escape(searchValue);
+		  window.open(str);
+		  //window.location.href(str);
+		}		
+}
+
+function searchFocus(text){
+		text.value = '';
+}
+	
+function searchBlur(text){
+		if(text.value == '')
+			text.value = '请输入您要查找的关键字...';
+}
+	
+&lt;/Script&gt;
+
+
+
+
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+
+	
+	&lt;script&gt;
+	$(document).ready(function(){	  
+		getCal_json(&quot;/portal/proxy/tsxx&quot;,function(Cal_json){		    
+			jQuery('#line1').html(Cal_json.begin_year+&quot;-&quot;+Cal_json.end_year+Cal_json.season);
+			jQuery('#line2').html(&quot;第&quot;+Cal_json.zhou_num+&quot;周&quot;);
+			jQuery('#line3').html(Cal_json.date);
+			jQuery('#line4').html(Cal_json.week);			
+		});
+	});
+	&lt;/script&gt;	
+   &lt;div id=&quot;banner&quot;&gt;
+            
+    	 	
+    	    	   
+       		&lt;img id=&quot;img_change&quot; src=&quot;/docinfo/img/banner.jpg&quot; width=&quot;947&quot; height=&quot;103&quot; /&gt;       		
+    	
+    &lt;/div&gt;
+    &lt;div id=&quot;weather&quot;&gt;
+        &lt;ul&gt;
+            &lt;li id=&quot;line1&quot;&gt;&lt;/li&gt;
+            &lt;li class=&quot;red&quot; id=&quot;line2&quot;&gt;&lt;/li&gt;
+            &lt;li id=&quot;line3&quot;&gt;&lt;/li&gt;
+            &lt;li id=&quot;line4&quot;&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+	   
+    &lt;div id=&quot;search&quot;&gt;
+    	&lt;ul&gt;
+		  &lt;li&gt;
+            &lt;input id=&quot;searchValue&quot; type=&quot;text&quot;  size=&quot;40&quot; value=&quot;请输入您要查找的关键字...&quot; style=&quot;vertical-align:middle;&quot; onFocus=&quot;searchFocus(this)&quot; onBlur=&quot;searchBlur(this)&quot;/&gt;&amp;nbsp;
+            &lt;input type=&quot;image&quot; style=&quot;vertical-align:middle;&quot; onClick=&quot;search()&quot; src=&quot;/docinfo/img/button_search.gif&quot; width=&quot;82&quot; height=&quot;21&quot; /&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;    
+    	
+  
+&lt;div id=&quot;center&quot;&gt;
+    &lt;!-- 导航部分 --&gt;
+    
+
+ 
+
+
+
+
+
+&lt;div id=&quot;nav2&quot;&gt;
+    &lt;ul&gt;
+       &lt;li&gt;&lt;span&gt;当前位置:&lt;/span&gt;
+       &lt;/li&gt;      
+                       
+       
+      
+        
+       
+         
+             
+          
+          
+          
+          
+          
+            &lt;li&gt;&amp;gt;&amp;gt;&lt;a href=&quot;../index.jsp&quot;&gt;首页&lt;/a&gt;
+            &lt;/li&gt;
+             
+          
+          
+          
+          
+             
+          
+          
+           
+                       
+            &lt;li&gt;&amp;gt;&amp;gt;&lt;a href=&quot;/docinfo/board1/boardlist.jsp?columnId=0010106&amp;parentColumnId=001&quot;&gt;教务通知&lt;/a&gt;
+            &lt;/li&gt;            
+                        
+          
+          
+        
+        
+                                               
+     &lt;/ul&gt;
+&lt;/div&gt;
+    &lt;!-- 导航部分结束 --&gt;
+    
+    
+         
+    &lt;h3&gt;
+	    &lt;span&gt;    
+	        &lt;font color=&quot;&quot;&gt;
+	          研究生毕业照片下载说明
+	        &lt;/font&gt;
+	                        
+	    &lt;/span&gt;
+    &lt;/h3&gt;
+
+    &lt;div style=&quot;width:90%; margin:10px auto; padding-bottom:10px; border-bottom:#dcdcdc 1px solid; overflow:hidden; &quot;&gt;
+        	&lt;ul&gt;
+            	&lt;li&gt;&lt;span class=&quot;left&quot; style=&quot;padding-top:30px;&quot;&gt;
+            	     发布时间:2018-04-11
+            	     &amp;nbsp;&amp;nbsp;
+            	     访问计数:361
+            	     &lt;/span&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;span class=&quot;left&quot;&gt;&lt;/span&gt;&lt;/li&gt;                
+                
+                 &lt;li&gt;
+                   &lt;a href=&quot;javascript:window.close()&quot;&gt;&lt;span class=&quot;right&quot;&gt;[关闭窗口]&lt;/span&gt;&lt;/a&gt;
+                      
+                 &lt;/li&gt;   
+            &lt;/ul&gt;
+    &lt;/div&gt;
+    
+     &lt;div style=&quot;text-align:left; width:90%; magin:0px auto; padding-top:20px;  padding-bottom:20px;word-break:break-all;&quot;&gt;
+     &lt;span&gt;&lt;IMG border=0 src=&quot;/editor_new/sysimage/file/doc.gif&quot;&gt;&lt;A href=&quot;/download.jsp?attachSeq=8284&quot;&gt;201804毕业、授学位研究生照片下载说明.doc&lt;/A&gt;&lt;/span&gt;
+     &lt;/div&gt;
+     
+     &lt;!-- &lt;div class=&quot;clear&quot; style=&quot;magin:20px auto;&quot;&gt;&amp;nbsp;&lt;/div&gt; --&gt;
+    &lt;div style=&quot;width:90%; margin:20px auto; padding-top:10px; border-top:#dcdcdc 1px solid&quot;&gt;
+
+    &lt;/div&gt;
+
+&lt;/div&gt;   
+
+
+
+&lt;div id=&quot;footer_s&quot;&gt;&lt;!-- 底部区域开始 --&gt;
+    	&lt;p&gt;版权所有:清华大学研究生院&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;技术支持:清华大学信息化技术中心&lt;/p&gt;
+        &lt;p style=&quot;font-family:Arial;&quot;&gt;Copyright&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-size:16px;&quot;&gt;&amp;copy;&lt;/span&gt;&amp;nbsp;&amp;nbsp;2009 Tsinghua University All Rights Reserved.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- 底部区域结束 --&gt;
+    
+
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="None" /><summary type="html">None</summary></entry></feed>

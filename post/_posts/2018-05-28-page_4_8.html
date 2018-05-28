@@ -1,0 +1,298 @@
+---
+layout:      post
+title:       page_4_8.html 
+excerpt:      None
+tags: 
+  - None
+modify_date: 2018-04-16
+---
+
+ 
+
+
+
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK">
+<title>研究生院办公网内网</title>
+
+<link href="/docinfo/css/page.css" rel="stylesheet" type="text/css"/>
+
+
+
+</head>
+
+
+<script language="javascript">
+<!--
+function commentCheck(){
+	if(document.forms(0).content.value==""){
+		alert("评论内容不能为空!");
+		document.forms(0).content.focus();
+		return false;
+	}
+	if(document.forms(0).anonymous.value=="1"&&
+	document.forms(0).nickName.value==""){
+		document.forms(0).nickName.value="匿名";
+	}
+	return true;
+}
+-->
+</script>
+<!-- 得到请求参数 -->
+
+
+
+
+
+
+
+
+
+
+<!-- 得到infoColumnVo -->
+
+
+<!-- 得到参数VO -->
+
+ 
+
+  <!-- 文档计数+1 -->
+
+
+
+
+
+
+<body >
+
+ 
+
+
+
+
+
+<script type="text/javascript" src="/js/jquery-1[1].3.2.min.js"></script> 
+<script type="text/javascript" src="/js/jxrl-1.0.js"></script> 
+
+
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script type="text/javascript">
+function search(){
+		var searchValue = document.getElementById('searchValue').value.replace(/^\s+|\s+$/g,"");;
+		if(searchValue == '请输入您要查找的关键字...')searchValue = '';
+		if(searchValue == ''){
+          alert("请输入您要查找的关键字");         
+          document.getElementById('searchValue').focus(); 
+        }else{  
+		  var str = "/docinfo/search.jsp?searchTitle=" + escape(searchValue);
+		  window.open(str);
+		  //window.location.href(str);
+		}		
+}
+
+function searchFocus(text){
+		text.value = '';
+}
+	
+function searchBlur(text){
+		if(text.value == '')
+			text.value = '请输入您要查找的关键字...';
+}
+	
+</Script>
+
+
+
+
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+
+
+	
+	<script>
+	$(document).ready(function(){	  
+		getCal_json("/portal/proxy/tsxx",function(Cal_json){		    
+			jQuery('#line1').html(Cal_json.begin_year+"-"+Cal_json.end_year+Cal_json.season);
+			jQuery('#line2').html("第"+Cal_json.zhou_num+"周");
+			jQuery('#line3').html(Cal_json.date);
+			jQuery('#line4').html(Cal_json.week);			
+		});
+	});
+	</script>	
+   <div id="banner">
+            
+    	 	
+    	    	   
+       		<img id="img_change" src="/docinfo/img/banner.jpg" width="947" height="103" />       		
+    	
+    </div>
+    <div id="weather">
+        <ul>
+            <li id="line1"></li>
+            <li class="red" id="line2"></li>
+            <li id="line3"></li>
+            <li id="line4"></li>
+        </ul>
+    </div>
+	   
+    <div id="search">
+    	<ul>
+		  <li>
+            <input id="searchValue" type="text"  size="40" value="请输入您要查找的关键字..." style="vertical-align:middle;" onFocus="searchFocus(this)" onBlur="searchBlur(this)"/>&nbsp;
+            <input type="image" style="vertical-align:middle;" onClick="search()" src="/docinfo/img/button_search.gif" width="82" height="21" />
+          </li>
+        </ul>
+    </div>    
+    	
+  
+<div id="center">
+    <!-- 导航部分 -->
+    
+
+ 
+
+
+
+
+
+<div id="nav2">
+    <ul>
+       <li><span>当前位置:</span>
+       </li>      
+                       
+       
+      
+        
+       
+         
+             
+          
+          
+          
+          
+          
+            <li>&gt;&gt;<a href="../index.jsp">首页</a>
+            </li>
+             
+          
+          
+          
+          
+             
+          
+          
+           
+                       
+            <li>&gt;&gt;<a href="/docinfo/board1/boardlist.jsp?columnId=0010106&parentColumnId=001">教务通知</a>
+            </li>            
+                        
+          
+          
+        
+        
+                                               
+     </ul>
+</div>
+    <!-- 导航部分结束 -->
+    
+    
+         
+    <h3>
+	    <span>    
+	        <font color="">
+	          《全球经济、金融与能源前沿》4月18日课暂停一次
+	        </font>
+	                        
+	    </span>
+    </h3>
+
+    <div style="width:90%; margin:10px auto; padding-bottom:10px; border-bottom:#dcdcdc 1px solid; overflow:hidden; ">
+        	<ul>
+            	<li><span class="left" style="padding-top:30px;">
+            	     发布时间:2018-04-16
+            	     &nbsp;&nbsp;
+            	     访问计数:462
+            	     </span></li>
+                <li><span class="left"></span></li>                
+                
+                 <li>
+                   <a href="javascript:window.close()"><span class="right">[关闭窗口]</span></a>
+                      
+                 </li>   
+            </ul>
+    </div>
+    
+     <div style="text-align:left; width:90%; magin:0px auto; padding-top:20px;  padding-bottom:20px;word-break:break-all;">
+     <span><P align=center><SPAN><SPAN style="FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm">&nbsp; <B style="mso-bidi-font-weight: normal"><SPAN style='FONT-SIZE: 18pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>通知</SPAN></B><B style="mso-bidi-font-weight: normal"><SPAN lang=EN-US style='FONT-SIZE: 18pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'><?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></B></P>
+<P class=MsoNormal style="VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; mso-pagination: widow-orphan" align=left><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>各位同学：</SPAN><SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; TEXT-INDENT: 21pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan" align=left><SPAN lang=EN-US style='BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-size: 10.5pt; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'><FONT size=3>&nbsp;<o:p></o:p></FONT></SPAN></P>
+<P class=MsoNormal style="VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; TEXT-INDENT: 28pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan" align=left><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>4</SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>月18</SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>日（周三）</SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>《</SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>全球经济、金融与能源前沿》</SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>课暂停一次，望周知。</SPAN><SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: Arial; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; TEXT-INDENT: 21pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan" align=left><SPAN lang=EN-US style='BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-size: 10.5pt; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'><FONT size=3>&nbsp;<o:p></o:p></FONT></SPAN></P>
+<P class=MsoNormal style="VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; TEXT-INDENT: 28pt; mso-char-indent-count: 2.0; mso-pagination: widow-orphan" align=left><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>联系人：</SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'> </SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>刘静</SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'> <SPAN lang=EN-US><FONT size=5><FONT face="Times New Roman"><SPAN lang=EN-US style='FONT-SIZE: 12pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-bidi-font-size: 14.0pt; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA'><SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA'>62780949</SPAN></SPAN></FONT></FONT></SPAN></SPAN></P>
+<P class=MsoNormal style="VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; mso-pagination: widow-orphan" align=left><FONT size=5><FONT face="Times New Roman"><SPAN lang=EN-US style='FONT-SIZE: 18pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN lang=EN-US style='BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-size: 10.5pt; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'><o:p></o:p></SPAN></FONT></FONT></P>
+<P class=MsoNormal style="VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; mso-pagination: widow-orphan" align=left><SPAN lang=EN-US style='BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-size: 10.5pt; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'><FONT size=3>&nbsp;<o:p></o:p></FONT></SPAN></P>
+<P class=MsoNormal style="VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; mso-pagination: widow-orphan" align=left><SPAN lang=EN-US style='FONT-SIZE: 18pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'><FONT size=5><FONT face="Times New Roman"><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</SPAN></FONT></FONT></SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>研究生院</SPAN><SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; TEXT-INDENT: 294pt; mso-char-indent-count: 21.0; mso-pagination: widow-orphan" align=left><SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;2018</SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>年4</SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>月16</SPAN><SPAN style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: 宋体; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-ascii-font-family: "Times New Roman"; mso-hansi-font-family: "Times New Roman"; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'>日</SPAN><SPAN lang=EN-US style='FONT-SIZE: 14pt; BORDER-TOP: windowtext 1pt; FONT-FAMILY: "Times New Roman",serif; BORDER-RIGHT: windowtext 1pt; BORDER-BOTTOM: windowtext 1pt; COLOR: black; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 0cm; BORDER-LEFT: windowtext 1pt; PADDING-RIGHT: 0cm; mso-bidi-font-weight: bold; mso-fareast-font-family: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-border-alt: none windowtext 0cm'><o:p></o:p></SPAN></P>
+<P class=MsoNormal style="VERTICAL-ALIGN: middle; BACKGROUND: #f4fcff; WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 21.6pt; mso-pagination: widow-orphan" align=left></SPAN>&nbsp;</P></SPAN></span>
+     </div>
+     
+     <!-- <div class="clear" style="magin:20px auto;">&nbsp;</div> -->
+    <div style="width:90%; margin:20px auto; padding-top:10px; border-top:#dcdcdc 1px solid">
+
+    </div>
+
+</div>   
+
+
+
+<div id="footer_s"><!-- 底部区域开始 -->
+    	<p>版权所有:清华大学研究生院&nbsp;&nbsp;&nbsp;&nbsp;技术支持:清华大学信息化技术中心</p>
+        <p style="font-family:Arial;">Copyright&nbsp;&nbsp;<span style="font-size:16px;">&copy;</span>&nbsp;&nbsp;2009 Tsinghua University All Rights Reserved.</p>
+</div><!-- 底部区域结束 -->
+    
+
+</body>
+</html>
