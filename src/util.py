@@ -69,6 +69,28 @@ def dataWriter(data, fout, tp='w'):
             f.writelines(line)
         f.close()
 
+# recordReader: read record.txt
+def recordReader(rec_file):
+    if not os.path.exists(rec_file):
+        os.popen('touch '+rec_file)
+    record = []; recorder = open(rec_file,'r')
+    try:
+        for line in recorder:
+            ri = re.split(' ',line); ri = sorted(set(ri),key=ri.index)
+            ri = [rii.replace('\n','') for rii in ri]; ri.remove('')
+            record.append(ri)
+    except:
+        pass
+    recorder.close()
+    return record
+
+def recordWriter(rec_file, record):
+    record.sort(key=lambda ri:-int(ri[0][0:4])*366-int(ri[0][5:7])*31-int(ri[0][8:10]))
+    recorder = open(rec_file,'w')
+    for ri in record:
+        recorder.writelines("%-10s  %-90s %-50s\n"%(ri[0],ri[1],ri[2]))
+    recorder.close()
+
 # getFileList: get file list of path #
 def configReader(section='', option=''):
     conf = ConfigParser.ConfigParser()
