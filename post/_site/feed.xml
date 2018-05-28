@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-05-28T22:35:42+08:00</updated><id>http://localhost:4000/</id><title type="html">Information Calender</title><subtitle>Information Calender based on Key Word Extraction and Classification
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2018-05-29T01:54:44+08:00</updated><id>http://localhost:4000/</id><title type="html">Information Calender</title><subtitle>Information Calender based on Key Word Extraction and Classification
 </subtitle><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><entry><title type="html">《全球经济、金融与能源前沿》第十讲上课通知</title><link href="http://localhost:4000/2018/05/28/http-__yjsy.cic.tsinghua.edu.cn_boarddetail_cat.jsp-columnId=0010106&itemSeq=33924.html" rel="alternate" type="text/html" title="《全球经济、金融与能源前沿》第十讲上课通知" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/http:__yjsy.cic.tsinghua.edu.cn_boarddetail_cat.jsp?columnId=0010106&amp;itemSeq=33924</id><content type="html" xml:base="http://localhost:4000/2018/05/28/http-__yjsy.cic.tsinghua.edu.cn_boarddetail_cat.jsp-columnId=0010106&amp;itemSeq=33924.html">&lt;html&gt;
  &lt;head&gt;
   &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
@@ -93,6 +93,7 @@ function searchBlur(text){
   &lt;/script&gt;
   &lt;div id=&quot;banner&quot;&gt;
    &lt;img id=&quot;img_change&quot; src=&quot;http://yjsy.cic.tsinghua.edu.cn/docinfo/img/banner.jpg&quot; width=&quot;947&quot; height=&quot;103&quot; /&gt;
+
   &lt;/div&gt;
   &lt;div id=&quot;weather&quot;&gt;
    &lt;ul&gt;
@@ -152,7 +153,7 @@ function searchBlur(text){
       &lt;span class=&quot;left&quot; style=&quot;padding-top:30px;&quot;&gt;
        发布时间:2018-05-23
             	     &amp;nbsp;&amp;nbsp;
-            	     访问计数:309
+            	     访问计数:341
       &lt;/span&gt;
      &lt;/li&gt;
      &lt;li&gt;
@@ -177,7 +178,8 @@ function searchBlur(text){
        &lt;span lang=&quot;EN-US&quot; style=&quot;FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 等线&quot;&gt;
         &lt;?xml version='1.0' encoding='utf-8'?&gt;
         &lt;o:p&gt;
-         &lt;img border=&quot;0&quot; src=&quot;/UploadFile/7/b/fbaa7d5a10c9cb1d93926496d6602eb7.jpg&quot; width=&quot;800&quot; height=&quot;2000&quot; /&gt;
+         &lt;img border=&quot;0&quot; src=&quot;http://yjsy.cic.tsinghua.edu.cn/UploadFile/7/b/fbaa7d5a10c9cb1d93926496d6602eb7.jpg&quot; width=&quot;800&quot; height=&quot;2000&quot; /&gt;
+
          &amp;nbsp;
         &lt;/o:p&gt;
        &lt;/span&gt;
@@ -614,7 +616,7 @@ function searchBlur(text){
   &lt;/div&gt;
   &lt;!-- 底部区域结束 --&gt;
  &lt;/body&gt;
-&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="vipkid" /><category term="全球化" /><category term="全球" /><category term="孩子" /><summary type="html">http://yjsy.cic.tsinghua.edu.cn/boarddetail_cat.jsp?columnId=0010106&amp;itemSeq=33924</summary></entry><entry><title type="html">第14周（周四）《文化素质教育讲座》课程预告-[陈浩]</title><link href="http://localhost:4000/2018/05/28/http-__postinfo.tsinghua.edu.cn_node_257364.html" rel="alternate" type="text/html" title="第14周（周四）《文化素质教育讲座》课程预告-[陈浩]" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/http:__postinfo.tsinghua.edu.cn_node_257364</id><content type="html" xml:base="http://localhost:4000/2018/05/28/http-__postinfo.tsinghua.edu.cn_node_257364.html">&lt;!DOCTYPE HTML&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="vipkid" /><category term="孩子" /><category term="全球" /><category term="全球化" /><summary type="html">http://yjsy.cic.tsinghua.edu.cn/boarddetail_cat.jsp?columnId=0010106&amp;itemSeq=33924</summary></entry><entry><title type="html">第14周（周四）《文化素质教育讲座》课程预告-[陈浩]</title><link href="http://localhost:4000/2018/05/28/http-__postinfo.tsinghua.edu.cn_node_257364.html" rel="alternate" type="text/html" title="第14周（周四）《文化素质教育讲座》课程预告-[陈浩]" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/http:__postinfo.tsinghua.edu.cn_node_257364</id><content type="html" xml:base="http://localhost:4000/2018/05/28/http-__postinfo.tsinghua.edu.cn_node_257364.html">&lt;!DOCTYPE HTML&gt;
 &lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;zh-hans&quot; version=&quot;XHTML+RDFa 1.0&quot; dir=&quot;ltr&quot; xmlns:content=&quot;http://purl.org/rss/1.0/modules/content/&quot; xmlns:dc=&quot;http://purl.org/dc/terms/&quot; xmlns:foaf=&quot;http://xmlns.com/foaf/0.1/&quot; xmlns:og=&quot;http://ogp.me/ns#&quot; xmlns:rdfs=&quot;http://www.w3.org/2000/01/rdf-schema#&quot; xmlns:sioc=&quot;http://rdfs.org/sioc/ns#&quot; xmlns:sioct=&quot;http://rdfs.org/sioc/types#&quot; xmlns:skos=&quot;http://www.w3.org/2004/02/skos/core#&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema#&quot;&gt;
  &lt;head profile=&quot;http://www.w3.org/1999/xhtml/vocab&quot;&gt;
   &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
@@ -653,7 +655,7 @@ function searchBlur(text){
   &lt;/script&gt;
   &lt;script type=&quot;text/javascript&quot;&gt;
    &amp;lt;!--//--&amp;gt;&amp;lt;![CDATA[/ /&amp;gt;&amp;lt;!--
-jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPrefix&quot;:&quot;&quot;,&quot;ajaxPageState&quot;:{&quot;theme&quot;:&quot;infoCms&quot;,&quot;theme_token&quot;:&quot;Sk7C9G-K3cPvFYbEIoAxutVq60jrq8bVExFFpAgGn_g&quot;,&quot;js&quot;:{&quot;misc\/jquery.js&quot;:1,&quot;misc\/jquery.once.js&quot;:1,&quot;misc\/drupal.js&quot;:1,&quot;public:\/\/languages\/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js&quot;:1},&quot;css&quot;:{&quot;modules\/system\/system.base.css&quot;:1,&quot;modules\/system\/system.menus.css&quot;:1,&quot;modules\/system\/system.messages.css&quot;:1,&quot;modules\/system\/system.theme.css&quot;:1,&quot;modules\/comment\/comment.css&quot;:1,&quot;modules\/field\/theme\/field.css&quot;:1,&quot;modules\/node\/node.css&quot;:1,&quot;modules\/search\/search.css&quot;:1,&quot;modules\/user\/user.css&quot;:1,&quot;sites\/all\/modules\/views\/css\/views.css&quot;:1,&quot;sites\/all\/modules\/ckeditor\/css\/ckeditor.css&quot;:1,&quot;sites\/all\/modules\/ctools\/css\/ctools.css&quot;:1}}});
+jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPrefix&quot;:&quot;&quot;,&quot;ajaxPageState&quot;:{&quot;theme&quot;:&quot;infoCms&quot;,&quot;theme_token&quot;:&quot;V_TVKebnKW-Zxoz-L-arWBl4D4dUEGt51L78DwVIDUE&quot;,&quot;js&quot;:{&quot;misc\/jquery.js&quot;:1,&quot;misc\/jquery.once.js&quot;:1,&quot;misc\/drupal.js&quot;:1,&quot;public:\/\/languages\/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js&quot;:1},&quot;css&quot;:{&quot;modules\/system\/system.base.css&quot;:1,&quot;modules\/system\/system.menus.css&quot;:1,&quot;modules\/system\/system.messages.css&quot;:1,&quot;modules\/system\/system.theme.css&quot;:1,&quot;modules\/comment\/comment.css&quot;:1,&quot;modules\/field\/theme\/field.css&quot;:1,&quot;modules\/node\/node.css&quot;:1,&quot;modules\/search\/search.css&quot;:1,&quot;modules\/user\/user.css&quot;:1,&quot;sites\/all\/modules\/views\/css\/views.css&quot;:1,&quot;sites\/all\/modules\/ckeditor\/css\/ckeditor.css&quot;:1,&quot;sites\/all\/modules\/ctools\/css\/ctools.css&quot;:1}}});
 //--&amp;gt;&amp;lt;!]]&amp;gt;
   &lt;/script&gt;
   &lt;link href=&quot;/sites/all/themes/infoCms/css/reset.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
@@ -662,7 +664,7 @@ jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPr
   &lt;!-- IE8 兼容 --&gt;
   &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=EmulateIE7&quot; /&gt;
  &lt;/head&gt;
-&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="社会" /><category term="市民" /><category term="马克思" /><category term="陈浩" /><summary type="html">http://postinfo.tsinghua.edu.cn/node/257364</summary></entry><entry><title type="html">2018春网上“学生评教”5月28日9：00正式开始</title><link href="http://localhost:4000/2018/05/28/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&seq=6264.html" rel="alternate" type="text/html" title="2018春网上“学生评教”5月28日9：00正式开始" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/http:__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp?boardid=57&amp;seq=6264</id><content type="html" xml:base="http://localhost:4000/2018/05/28/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&amp;seq=6264.html">&lt;html&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="市民" /><category term="陈浩" /><category term="普遍性" /><category term="马克思" /><summary type="html">http://postinfo.tsinghua.edu.cn/node/257364</summary></entry><entry><title type="html">2018春网上“学生评教”5月28日9：00正式开始</title><link href="http://localhost:4000/2018/05/28/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&seq=6264.html" rel="alternate" type="text/html" title="2018春网上“学生评教”5月28日9：00正式开始" /><published>2018-05-28T00:00:00+08:00</published><updated>2018-05-28T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/28/http:__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp?boardid=57&amp;seq=6264</id><content type="html" xml:base="http://localhost:4000/2018/05/28/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&amp;seq=6264.html">&lt;html&gt;
  &lt;head&gt;
   &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
   &lt;title&gt;
@@ -719,7 +721,7 @@ body {
       &lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
        &lt;tr&gt;
         &lt;td align=&quot;center&quot;&gt;
-         【分类: 综合办公室】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-28】&amp;nbsp;&amp;nbsp;【访问计数:347】
+         【分类: 综合办公室】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-28】&amp;nbsp;&amp;nbsp;【访问计数:502】
         &lt;/td&gt;
        &lt;/tr&gt;
        &lt;tr&gt;
@@ -1038,6 +1040,7 @@ body {
                  &lt;span style='FONT-FAMILY: 宋体; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 10.5pt'&gt;
                   具体操作说明可查看附件：
                   &lt;img border=&quot;0&quot; src=&quot;http://jwcbg.cic.tsinghua.edu.cn/jwcbg/editor_new/sysimage/file/unknow.gif&quot; /&gt;
+
                   &lt;a href=&quot;/download.jsp?attachSeq=2707&quot;&gt;
                    网上评教系统使用说明.docx
                   &lt;/a&gt;
@@ -1218,7 +1221,7 @@ body {
       &lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
        &lt;tr&gt;
         &lt;td align=&quot;center&quot;&gt;
-         【分类: 实践教学科】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-28】&amp;nbsp;&amp;nbsp;【访问计数:719】
+         【分类: 实践教学科】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-28】&amp;nbsp;&amp;nbsp;【访问计数:811】
         &lt;/td&gt;
        &lt;/tr&gt;
        &lt;tr&gt;
@@ -1365,7 +1368,7 @@ body {
    &lt;/tr&gt;
   &lt;/table&gt;
  &lt;/body&gt;
-&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="报名" /><category term="立项" /><category term="接收" /><category term="学生" /><summary type="html">http://jwcbg.cic.tsinghua.edu.cn/jwcbg/detail_cat.jsp?boardid=57&amp;seq=6263</summary></entry><entry><title type="html">第14周（周三）《文化素质教育讲座》课程预告-[米雯娟]</title><link href="http://localhost:4000/2018/05/25/http-__postinfo.tsinghua.edu.cn_node_257307.html" rel="alternate" type="text/html" title="第14周（周三）《文化素质教育讲座》课程预告-[米雯娟]" /><published>2018-05-25T00:00:00+08:00</published><updated>2018-05-25T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/25/http:__postinfo.tsinghua.edu.cn_node_257307</id><content type="html" xml:base="http://localhost:4000/2018/05/25/http-__postinfo.tsinghua.edu.cn_node_257307.html">&lt;!DOCTYPE HTML&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="报名" /><category term="立项" /><category term="接收" /><category term="2018学年" /><summary type="html">http://jwcbg.cic.tsinghua.edu.cn/jwcbg/detail_cat.jsp?boardid=57&amp;seq=6263</summary></entry><entry><title type="html">第14周（周三）《文化素质教育讲座》课程预告-[米雯娟]</title><link href="http://localhost:4000/2018/05/25/http-__postinfo.tsinghua.edu.cn_node_257307.html" rel="alternate" type="text/html" title="第14周（周三）《文化素质教育讲座》课程预告-[米雯娟]" /><published>2018-05-25T00:00:00+08:00</published><updated>2018-05-25T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/25/http:__postinfo.tsinghua.edu.cn_node_257307</id><content type="html" xml:base="http://localhost:4000/2018/05/25/http-__postinfo.tsinghua.edu.cn_node_257307.html">&lt;!DOCTYPE HTML&gt;
 &lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;zh-hans&quot; version=&quot;XHTML+RDFa 1.0&quot; dir=&quot;ltr&quot; xmlns:content=&quot;http://purl.org/rss/1.0/modules/content/&quot; xmlns:dc=&quot;http://purl.org/dc/terms/&quot; xmlns:foaf=&quot;http://xmlns.com/foaf/0.1/&quot; xmlns:og=&quot;http://ogp.me/ns#&quot; xmlns:rdfs=&quot;http://www.w3.org/2000/01/rdf-schema#&quot; xmlns:sioc=&quot;http://rdfs.org/sioc/ns#&quot; xmlns:sioct=&quot;http://rdfs.org/sioc/types#&quot; xmlns:skos=&quot;http://www.w3.org/2004/02/skos/core#&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema#&quot;&gt;
  &lt;head profile=&quot;http://www.w3.org/1999/xhtml/vocab&quot;&gt;
   &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
@@ -1404,7 +1407,7 @@ body {
   &lt;/script&gt;
   &lt;script type=&quot;text/javascript&quot;&gt;
    &amp;lt;!--//--&amp;gt;&amp;lt;![CDATA[/ /&amp;gt;&amp;lt;!--
-jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPrefix&quot;:&quot;&quot;,&quot;ajaxPageState&quot;:{&quot;theme&quot;:&quot;infoCms&quot;,&quot;theme_token&quot;:&quot;3lfgCoithnt-Y-klVM5EKnVZ-garBSrwHH9pjcRhaxI&quot;,&quot;js&quot;:{&quot;misc\/jquery.js&quot;:1,&quot;misc\/jquery.once.js&quot;:1,&quot;misc\/drupal.js&quot;:1,&quot;public:\/\/languages\/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js&quot;:1},&quot;css&quot;:{&quot;modules\/system\/system.base.css&quot;:1,&quot;modules\/system\/system.menus.css&quot;:1,&quot;modules\/system\/system.messages.css&quot;:1,&quot;modules\/system\/system.theme.css&quot;:1,&quot;modules\/comment\/comment.css&quot;:1,&quot;modules\/field\/theme\/field.css&quot;:1,&quot;modules\/node\/node.css&quot;:1,&quot;modules\/search\/search.css&quot;:1,&quot;modules\/user\/user.css&quot;:1,&quot;sites\/all\/modules\/views\/css\/views.css&quot;:1,&quot;sites\/all\/modules\/ckeditor\/css\/ckeditor.css&quot;:1,&quot;sites\/all\/modules\/ctools\/css\/ctools.css&quot;:1}}});
+jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPrefix&quot;:&quot;&quot;,&quot;ajaxPageState&quot;:{&quot;theme&quot;:&quot;infoCms&quot;,&quot;theme_token&quot;:&quot;6q5oXze3MWowf0rrkn0MnzwC9T4REL9PZwq-i99hPsc&quot;,&quot;js&quot;:{&quot;misc\/jquery.js&quot;:1,&quot;misc\/jquery.once.js&quot;:1,&quot;misc\/drupal.js&quot;:1,&quot;public:\/\/languages\/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js&quot;:1},&quot;css&quot;:{&quot;modules\/system\/system.base.css&quot;:1,&quot;modules\/system\/system.menus.css&quot;:1,&quot;modules\/system\/system.messages.css&quot;:1,&quot;modules\/system\/system.theme.css&quot;:1,&quot;modules\/comment\/comment.css&quot;:1,&quot;modules\/field\/theme\/field.css&quot;:1,&quot;modules\/node\/node.css&quot;:1,&quot;modules\/search\/search.css&quot;:1,&quot;modules\/user\/user.css&quot;:1,&quot;sites\/all\/modules\/views\/css\/views.css&quot;:1,&quot;sites\/all\/modules\/ckeditor\/css\/ckeditor.css&quot;:1,&quot;sites\/all\/modules\/ctools\/css\/ctools.css&quot;:1}}});
 //--&amp;gt;&amp;lt;!]]&amp;gt;
   &lt;/script&gt;
   &lt;link href=&quot;/sites/all/themes/infoCms/css/reset.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
@@ -1413,7 +1416,7 @@ jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPr
   &lt;!-- IE8 兼容 --&gt;
   &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=EmulateIE7&quot; /&gt;
  &lt;/head&gt;
-&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="全球" /><category term="雯娟" /><category term="vipkid" /><category term="全球化" /><summary type="html">http://postinfo.tsinghua.edu.cn/node/257307</summary></entry><entry><title type="html">清华大学第25次教育工作讨论会院系级活动安排20180525</title><link href="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&seq=6262.html" rel="alternate" type="text/html" title="清华大学第25次教育工作讨论会院系级活动安排20180525" /><published>2018-05-25T00:00:00+08:00</published><updated>2018-05-25T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/25/http:__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp?boardid=57&amp;seq=6262</id><content type="html" xml:base="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&amp;seq=6262.html">&lt;html&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="雯娟" /><category term="全球" /><category term="vipkid" /><category term="孩子" /><summary type="html">http://postinfo.tsinghua.edu.cn/node/257307</summary></entry><entry><title type="html">清华大学第25次教育工作讨论会院系级活动安排20180525</title><link href="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&seq=6262.html" rel="alternate" type="text/html" title="清华大学第25次教育工作讨论会院系级活动安排20180525" /><published>2018-05-25T00:00:00+08:00</published><updated>2018-05-25T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/25/http:__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp?boardid=57&amp;seq=6262</id><content type="html" xml:base="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&amp;seq=6262.html">&lt;html&gt;
  &lt;head&gt;
   &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
   &lt;title&gt;
@@ -1470,7 +1473,7 @@ body {
       &lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
        &lt;tr&gt;
         &lt;td align=&quot;center&quot;&gt;
-         【分类: 综合办公室】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-25】&amp;nbsp;&amp;nbsp;【访问计数:292】
+         【分类: 综合办公室】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-25】&amp;nbsp;&amp;nbsp;【访问计数:298】
         &lt;/td&gt;
        &lt;/tr&gt;
        &lt;tr&gt;
@@ -1525,6 +1528,7 @@ body {
                &lt;/p&gt;
                &lt;p&gt;
                 &lt;img border=&quot;0&quot; src=&quot;http://jwcbg.cic.tsinghua.edu.cn/jwcbg/editor_new/sysimage/file/pdf.gif&quot; /&gt;
+
                 &lt;a href=&quot;/download.jsp?attachSeq=2706&quot;&gt;
                  清华大学第25次教育工作讨论会院系级活动安排20180525.pdf
                 &lt;/a&gt;
@@ -1608,7 +1612,7 @@ body {
    &lt;/tr&gt;
   &lt;/table&gt;
  &lt;/body&gt;
-&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="第25" /><category term="讨论会" /><category term="安排" /><category term="20180525" /><summary type="html">http://jwcbg.cic.tsinghua.edu.cn/jwcbg/detail_cat.jsp?boardid=57&amp;seq=6262</summary></entry><entry><title type="html">再发：关于本科教改项目结题公示的通知</title><link href="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&seq=6259.html" rel="alternate" type="text/html" title="再发：关于本科教改项目结题公示的通知" /><published>2018-05-25T00:00:00+08:00</published><updated>2018-05-25T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/25/http:__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp?boardid=57&amp;seq=6259</id><content type="html" xml:base="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&amp;seq=6259.html">&lt;html&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="第25" /><category term="讨论会" /><category term="20180525" /><category term="系级" /><summary type="html">http://jwcbg.cic.tsinghua.edu.cn/jwcbg/detail_cat.jsp?boardid=57&amp;seq=6262</summary></entry><entry><title type="html">再发：关于本科教改项目结题公示的通知</title><link href="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&seq=6259.html" rel="alternate" type="text/html" title="再发：关于本科教改项目结题公示的通知" /><published>2018-05-25T00:00:00+08:00</published><updated>2018-05-25T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/25/http:__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp?boardid=57&amp;seq=6259</id><content type="html" xml:base="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&amp;seq=6259.html">&lt;html&gt;
  &lt;head&gt;
   &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
   &lt;title&gt;
@@ -1665,7 +1669,7 @@ body {
       &lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
        &lt;tr&gt;
         &lt;td align=&quot;center&quot;&gt;
-         【分类: 教学质量办公室】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-25】&amp;nbsp;&amp;nbsp;【访问计数:681】
+         【分类: 教学质量办公室】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-25】&amp;nbsp;&amp;nbsp;【访问计数:699】
         &lt;/td&gt;
        &lt;/tr&gt;
        &lt;tr&gt;
@@ -1787,6 +1791,7 @@ body {
                &lt;div align=&quot;left&quot;&gt;
                 &lt;font size=&quot;4&quot;&gt;
                  &lt;img border=&quot;0&quot; src=&quot;http://jwcbg.cic.tsinghua.edu.cn/jwcbg/editor_new/sysimage/file/unknow.gif&quot; /&gt;
+
                 &lt;/font&gt;
                 &lt;a href=&quot;/download.jsp?attachSeq=2703&quot;&gt;
                  &lt;font size=&quot;4&quot;&gt;
@@ -1880,7 +1885,7 @@ body {
    &lt;/tr&gt;
   &lt;/table&gt;
  &lt;/body&gt;
-&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="公示" /><category term="结题" /><category term="项目" /><category term="教学" /><summary type="html">http://jwcbg.cic.tsinghua.edu.cn/jwcbg/detail_cat.jsp?boardid=57&amp;seq=6259</summary></entry><entry><title type="html">关于2018年校内第二学士学位及辅修专业拟录取名单公示的通知</title><link href="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&seq=6254.html" rel="alternate" type="text/html" title="关于2018年校内第二学士学位及辅修专业拟录取名单公示的通知" /><published>2018-05-25T00:00:00+08:00</published><updated>2018-05-25T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/25/http:__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp?boardid=57&amp;seq=6254</id><content type="html" xml:base="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&amp;seq=6254.html">&lt;html&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="公示" /><category term="结题" /><category term="项目" /><category term="本科教" /><summary type="html">http://jwcbg.cic.tsinghua.edu.cn/jwcbg/detail_cat.jsp?boardid=57&amp;seq=6259</summary></entry><entry><title type="html">关于2018年校内第二学士学位及辅修专业拟录取名单公示的通知</title><link href="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&seq=6254.html" rel="alternate" type="text/html" title="关于2018年校内第二学士学位及辅修专业拟录取名单公示的通知" /><published>2018-05-25T00:00:00+08:00</published><updated>2018-05-25T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/25/http:__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp?boardid=57&amp;seq=6254</id><content type="html" xml:base="http://localhost:4000/2018/05/25/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&amp;seq=6254.html">&lt;html&gt;
  &lt;head&gt;
   &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
   &lt;title&gt;
@@ -1937,7 +1942,7 @@ body {
       &lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
        &lt;tr&gt;
         &lt;td align=&quot;center&quot;&gt;
-         【分类: 教务科】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-25】&amp;nbsp;&amp;nbsp;【访问计数:2336】
+         【分类: 教务科】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-25】&amp;nbsp;&amp;nbsp;【访问计数:2356】
         &lt;/td&gt;
        &lt;/tr&gt;
        &lt;tr&gt;
@@ -2006,18 +2011,21 @@ body {
                &lt;/div&gt;
                &lt;div&gt;
                 &lt;img border=&quot;0&quot; src=&quot;http://jwcbg.cic.tsinghua.edu.cn/jwcbg/editor_new/sysimage/file/xls.gif&quot; /&gt;
+
                 &lt;a href=&quot;/download.jsp?attachSeq=2700&quot;&gt;
                  附件1：2018年拟录取的二学位辅修学生名单（公示）.xls
                 &lt;/a&gt;
                &lt;/div&gt;
                &lt;div&gt;
-                &lt;img border=&quot;0&quot; src=&quot;/editor_new/sysimage/file/pdf.gif&quot; /&gt;
+                &lt;img border=&quot;0&quot; src=&quot;http://jwcbg.cic.tsinghua.edu.cn/jwcbg/editor_new/sysimage/file/pdf.gif&quot; /&gt;
+
                 &lt;a href=&quot;/download.jsp?attachSeq=2701&quot;&gt;
                  关于公布《清华大学本科生第二学士学位专业教学管理办法》的通知.pdf
                 &lt;/a&gt;
                &lt;/div&gt;
                &lt;div&gt;
-                &lt;img border=&quot;0&quot; src=&quot;/editor_new/sysimage/file/pdf.gif&quot; /&gt;
+                &lt;img border=&quot;0&quot; src=&quot;http://jwcbg.cic.tsinghua.edu.cn/jwcbg/editor_new/sysimage/file/pdf.gif&quot; /&gt;
+
                 &lt;a href=&quot;/download.jsp?attachSeq=2702&quot;&gt;
                  关于公布《清华大学本科生辅修专业教学管理办法》的通知.pdf
                 &lt;/a&gt;
@@ -2100,7 +2108,7 @@ body {
    &lt;/tr&gt;
   &lt;/table&gt;
  &lt;/body&gt;
-&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="辅修" /><category term="专业" /><category term="学士" /><category term="学位" /><summary type="html">http://jwcbg.cic.tsinghua.edu.cn/jwcbg/detail_cat.jsp?boardid=57&amp;seq=6254</summary></entry><entry><title type="html">第14周（周一）《文化素质教育讲座》课程预告-[陈吕军]</title><link href="http://localhost:4000/2018/05/24/http-__postinfo.tsinghua.edu.cn_node_257273.html" rel="alternate" type="text/html" title="第14周（周一）《文化素质教育讲座》课程预告-[陈吕军]" /><published>2018-05-24T00:00:00+08:00</published><updated>2018-05-24T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/24/http:__postinfo.tsinghua.edu.cn_node_257273</id><content type="html" xml:base="http://localhost:4000/2018/05/24/http-__postinfo.tsinghua.edu.cn_node_257273.html">&lt;!DOCTYPE HTML&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="辅修" /><category term="学士" /><category term="专业" /><category term="学位" /><summary type="html">http://jwcbg.cic.tsinghua.edu.cn/jwcbg/detail_cat.jsp?boardid=57&amp;seq=6254</summary></entry><entry><title type="html">第14周（周一）《文化素质教育讲座》课程预告-[陈吕军]</title><link href="http://localhost:4000/2018/05/24/http-__postinfo.tsinghua.edu.cn_node_257273.html" rel="alternate" type="text/html" title="第14周（周一）《文化素质教育讲座》课程预告-[陈吕军]" /><published>2018-05-24T00:00:00+08:00</published><updated>2018-05-24T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/24/http:__postinfo.tsinghua.edu.cn_node_257273</id><content type="html" xml:base="http://localhost:4000/2018/05/24/http-__postinfo.tsinghua.edu.cn_node_257273.html">&lt;!DOCTYPE HTML&gt;
 &lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; xml:lang=&quot;zh-hans&quot; version=&quot;XHTML+RDFa 1.0&quot; dir=&quot;ltr&quot; xmlns:content=&quot;http://purl.org/rss/1.0/modules/content/&quot; xmlns:dc=&quot;http://purl.org/dc/terms/&quot; xmlns:foaf=&quot;http://xmlns.com/foaf/0.1/&quot; xmlns:og=&quot;http://ogp.me/ns#&quot; xmlns:rdfs=&quot;http://www.w3.org/2000/01/rdf-schema#&quot; xmlns:sioc=&quot;http://rdfs.org/sioc/ns#&quot; xmlns:sioct=&quot;http://rdfs.org/sioc/types#&quot; xmlns:skos=&quot;http://www.w3.org/2004/02/skos/core#&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema#&quot;&gt;
  &lt;head profile=&quot;http://www.w3.org/1999/xhtml/vocab&quot;&gt;
   &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
@@ -2139,7 +2147,7 @@ body {
   &lt;/script&gt;
   &lt;script type=&quot;text/javascript&quot;&gt;
    &amp;lt;!--//--&amp;gt;&amp;lt;![CDATA[/ /&amp;gt;&amp;lt;!--
-jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPrefix&quot;:&quot;&quot;,&quot;ajaxPageState&quot;:{&quot;theme&quot;:&quot;infoCms&quot;,&quot;theme_token&quot;:&quot;qbFikQr8SeCTYUbOfa2cX7fUD7Id79bsHITFNAqbWf4&quot;,&quot;js&quot;:{&quot;misc\/jquery.js&quot;:1,&quot;misc\/jquery.once.js&quot;:1,&quot;misc\/drupal.js&quot;:1,&quot;public:\/\/languages\/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js&quot;:1},&quot;css&quot;:{&quot;modules\/system\/system.base.css&quot;:1,&quot;modules\/system\/system.menus.css&quot;:1,&quot;modules\/system\/system.messages.css&quot;:1,&quot;modules\/system\/system.theme.css&quot;:1,&quot;modules\/comment\/comment.css&quot;:1,&quot;modules\/field\/theme\/field.css&quot;:1,&quot;modules\/node\/node.css&quot;:1,&quot;modules\/search\/search.css&quot;:1,&quot;modules\/user\/user.css&quot;:1,&quot;sites\/all\/modules\/views\/css\/views.css&quot;:1,&quot;sites\/all\/modules\/ckeditor\/css\/ckeditor.css&quot;:1,&quot;sites\/all\/modules\/ctools\/css\/ctools.css&quot;:1}}});
+jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPrefix&quot;:&quot;&quot;,&quot;ajaxPageState&quot;:{&quot;theme&quot;:&quot;infoCms&quot;,&quot;theme_token&quot;:&quot;ZBxJccBdh3FvkVxqIJPWEVmBKvUECKS7yGgk9tDMnZQ&quot;,&quot;js&quot;:{&quot;misc\/jquery.js&quot;:1,&quot;misc\/jquery.once.js&quot;:1,&quot;misc\/drupal.js&quot;:1,&quot;public:\/\/languages\/zh-hans_LSBoseMAZxQGu4ZnLrci8YcqyXFOA2rIJGhhgz2rOT4.js&quot;:1},&quot;css&quot;:{&quot;modules\/system\/system.base.css&quot;:1,&quot;modules\/system\/system.menus.css&quot;:1,&quot;modules\/system\/system.messages.css&quot;:1,&quot;modules\/system\/system.theme.css&quot;:1,&quot;modules\/comment\/comment.css&quot;:1,&quot;modules\/field\/theme\/field.css&quot;:1,&quot;modules\/node\/node.css&quot;:1,&quot;modules\/search\/search.css&quot;:1,&quot;modules\/user\/user.css&quot;:1,&quot;sites\/all\/modules\/views\/css\/views.css&quot;:1,&quot;sites\/all\/modules\/ckeditor\/css\/ckeditor.css&quot;:1,&quot;sites\/all\/modules\/ctools\/css\/ctools.css&quot;:1}}});
 //--&amp;gt;&amp;lt;!]]&amp;gt;
   &lt;/script&gt;
   &lt;link href=&quot;/sites/all/themes/infoCms/css/reset.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
@@ -2148,7 +2156,7 @@ jQuery.extend(Drupal.settings, {&quot;basePath&quot;:&quot;\/&quot;,&quot;pathPr
   &lt;!-- IE8 兼容 --&gt;
   &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=EmulateIE7&quot; /&gt;
  &lt;/head&gt;
-&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="生态" /><category term="文明" /><category term="陈吕军" /><category term="生态文明十五讲" /><summary type="html">http://postinfo.tsinghua.edu.cn/node/257273</summary></entry><entry><title type="html">C9高校-南京大学暑期学校报名通知</title><link href="http://localhost:4000/2018/05/24/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&seq=6253.html" rel="alternate" type="text/html" title="C9高校-南京大学暑期学校报名通知" /><published>2018-05-24T00:00:00+08:00</published><updated>2018-05-24T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/24/http:__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp?boardid=57&amp;seq=6253</id><content type="html" xml:base="http://localhost:4000/2018/05/24/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&amp;seq=6253.html">&lt;html&gt;
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="生态" /><category term="陈吕军" /><category term="文明" /><category term="生态文明十五讲" /><summary type="html">http://postinfo.tsinghua.edu.cn/node/257273</summary></entry><entry><title type="html">C9高校-南京大学暑期学校报名通知</title><link href="http://localhost:4000/2018/05/24/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&seq=6253.html" rel="alternate" type="text/html" title="C9高校-南京大学暑期学校报名通知" /><published>2018-05-24T00:00:00+08:00</published><updated>2018-05-24T00:00:00+08:00</updated><id>http://localhost:4000/2018/05/24/http:__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp?boardid=57&amp;seq=6253</id><content type="html" xml:base="http://localhost:4000/2018/05/24/http-__jwcbg.cic.tsinghua.edu.cn_jwcbg_detail_cat.jsp-boardid=57&amp;seq=6253.html">&lt;html&gt;
  &lt;head&gt;
   &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
   &lt;title&gt;
@@ -2205,7 +2213,7 @@ body {
       &lt;table width=&quot;90%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
        &lt;tr&gt;
         &lt;td align=&quot;center&quot;&gt;
-         【分类: 教务科】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-24】&amp;nbsp;&amp;nbsp;【访问计数:908】
+         【分类: 教务科】&amp;nbsp;&amp;nbsp;【发布时间: 2018-05-24】&amp;nbsp;&amp;nbsp;【访问计数:913】
         &lt;/td&gt;
        &lt;/tr&gt;
        &lt;tr&gt;
@@ -2264,19 +2272,22 @@ body {
                 &amp;nbsp;
                 &lt;br /&gt;
                 &lt;img border=&quot;0&quot; src=&quot;http://jwcbg.cic.tsinghua.edu.cn/jwcbg/editor_new/sysimage/file/xls.gif&quot; /&gt;
+
                 &lt;a href=&quot;/download.jsp?attachSeq=2696&quot;&gt;
                  C9暑期项目接收计划-南京大学.xls
                 &lt;/a&gt;
                &lt;/p&gt;
                &lt;p&gt;
-                &lt;img border=&quot;0&quot; src=&quot;/editor_new/sysimage/file/doc.gif&quot; /&gt;
+                &lt;img border=&quot;0&quot; src=&quot;http://jwcbg.cic.tsinghua.edu.cn/jwcbg/editor_new/sysimage/file/doc.gif&quot; /&gt;
+
                 &lt;a href=&quot;/download.jsp?attachSeq=2698&quot;&gt;
                  南京大学2018年C9暑期学校介绍.doc
                 &lt;/a&gt;
                &lt;/p&gt;
                &lt;p&gt;
                 &lt;br /&gt;
-                &lt;img border=&quot;0&quot; src=&quot;/editor_new/sysimage/file/xls.gif&quot; /&gt;
+                &lt;img border=&quot;0&quot; src=&quot;http://jwcbg.cic.tsinghua.edu.cn/jwcbg/editor_new/sysimage/file/xls.gif&quot; /&gt;
+
                 &lt;a href=&quot;/download.jsp?attachSeq=2699&quot;&gt;
                  C9暑期项目学生报名表.xls
                 &lt;/a&gt;
@@ -2353,4 +2364,4 @@ body {
    &lt;/tr&gt;
   &lt;/table&gt;
  &lt;/body&gt;
-&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="暑期" /><category term="南京" /><category term="报名" /><category term="学校" /><summary type="html">http://jwcbg.cic.tsinghua.edu.cn/jwcbg/detail_cat.jsp?boardid=57&amp;seq=6253</summary></entry></feed>
+&lt;/html&gt;</content><author><name>Xingyu Su &amp; Chenhui Jia</name><email>suxy15tsinghua@gmail.com</email></author><category term="暑期" /><category term="南京" /><category term="对方" /><category term="c9" /><summary type="html">http://jwcbg.cic.tsinghua.edu.cn/jwcbg/detail_cat.jsp?boardid=57&amp;seq=6253</summary></entry></feed>

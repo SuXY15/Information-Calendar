@@ -1,5 +1,10 @@
-data/*
+data/*.txt
+data/lists
+data/pages
+data/texts
 output/*
+post/_posts
+post/_site
 refer
 record
 .DS_Store
