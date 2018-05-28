@@ -45,11 +45,11 @@ The Crawler is designed to fetch data from destination website and handle the ra
 
 `Crawler.py` is used as below:
 
-![](/Users/suxy/学习/6-大三下/人工智能导论/作业/大作业/pic/run_crawl.png)
+![](res/run_crawl.png)
 
 After crawling and parsing, the pure text can be get as follow. (`left: txt content`, `right: original html`)
 
-![](/Users/suxy/学习/6-大三下/人工智能导论/作业/大作业/pic/show_text.png)
+![](res/show_text.png)
 
 #### 2. Segmentalizer
 
@@ -67,11 +67,11 @@ Here the [python tool `jieba`](https://pypi.org/project/jieba/) is used. The alg
 
 Code can be run by:
 
-![run_segmentalize](/Users/suxy/学习/6-大三下/人工智能导论/作业/大作业/pic/run_segmentalize.png)
+![run_segmentalize](res/run_segmentalize.png)
 
 The segmented example is showed as below:
 
-![show_segment](/Users/suxy/学习/6-大三下/人工智能导论/作业/大作业/pic/show_segment.png)
+![show_segment](res/show_segment.png)
 
 ##### 2.2 THULAC
 
@@ -101,11 +101,11 @@ p_{i,j} = TF_{i,j} \times IDF_{j}
 $$
 The `sklearn.feature_extraction.text.TfidfTransformer` is used in this part. And the script `tf_idf.py` can be run by:
 
-![run_ext](/Users/suxy/学习/6-大三下/人工智能导论/作业/大作业/pic/run_ext.png)
+![run_ext](res/run_ext.png)
 
 The extracted result is a list of word and its weight of importance, the result of `tf_idf.py` is showed as below:
 
-![show_ext](/Users/suxy/学习/6-大三下/人工智能导论/作业/大作业/pic/show_ext.png)
+![show_ext](res/show_ext.png)
 
 ##### 3.2 TextRank
 
