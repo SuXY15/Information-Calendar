@@ -2,6 +2,7 @@
 import os, sys, jieba, thulac
 from util import *
 
+# configuration
 pos_text = configReader(section='path', option='pos_text')
 pos_erro = configReader(section='path', option='pos_erro')
 seg_path = configReader(section='segment', option='seg_path')
@@ -9,20 +10,19 @@ seg_mthd = cleanWord(configReader(section='segment', option='seg_mthd'))
 
 # segmentalize: divide words
 def segmentalize(fileName, cutter):
-    filePath = pos_text
-    print "Segmentalizing: "+filePath+fileName
+    print "Segmentalizing: "+pos_text+fileName
     try:
-        text = myEncoding(dataReader(filePath+fileName,'r+'))
+        text = myEncoding(dataReader(pos_text+fileName,'r+'))
     except:
-        RaiseErr('segment', filePath+fileName)
-        text = dataReader(filePath+fileName,'r+')
+        RaiseErr('segment', pos_text+fileName)
+        text = dataReader(pos_text+fileName,'r+')
 
     # default segmentalize
     try:
         seg_list = cutter(text)
     except:
         seg_list = []
-        RaiseErr('segment', filePath+fileName)
+        RaiseErr('segment', pos_text+fileName)
     if seg_mthd == 'jieba':
         seg_list = [cleanWord(seg) for seg in seg_list]
     if seg_mthd == 'thulac':
@@ -53,12 +53,14 @@ if __name__=='__main__':
 
     # handle
     for i in range(len(rec_page)):
-        f = str(rec_page[i][1]).replace('/','_')+'.txt'
-        if f not in hrefs:
-            segmentalize(f, cutter)
-            rec_sege.append([rec_page[i][0],f,rec_page[i][2]])
+        fileName = rec_page[i][1].replace('/','_')+'.txt'
+        if fileName not in hrefs:
+            segmentalize(fileName, cutter)
+            rec_sege.append([rec_page[i][0],fileName,rec_page[i][2]])
 
+    # record output
     recordWriter(configReader(section='record',option='rec_sege'),rec_sege)
+    
     # error output
     OutputErr()
     toc()
