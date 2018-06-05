@@ -53,7 +53,7 @@ if __name__=='__main__':
 
     # handle
     for i in range(len(rec_page)):
-        fileName = rec_page[i][1].replace('/','_')+'.txt'
+        fileName = http2str(rec_page[i][1])+'.txt'
         if fileName not in hrefs:
             segmentalize(fileName, cutter)
             rec_sege.append([rec_page[i][0],fileName,rec_page[i][2]])

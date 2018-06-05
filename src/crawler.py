@@ -120,7 +120,7 @@ if __name__=='__main__':
     # crawling list
     printInfo("Getting List From %s"%url_list)
     for index in list_arange:
-        listFileName = pos_list+(url_list%index).replace("/",'_')+'.html'
+        listFileName = pos_list+http2str(url_list%index)+'.html'
         Crawler(url_list%index, 'axel', listFileName)
 
     # load record
@@ -129,7 +129,7 @@ if __name__=='__main__':
     # analyze list and crawling pages
     for index in list_arange:
         printInfo("Analyzing List %4d and Crawling pages"%index)
-        listFileName = pos_list+(url_list%index).replace("/",'_')+'.html'
+        listFileName = pos_list+http2str(url_list%index)+'.html'
         
         # analyze list and crawling pages
         try:
@@ -143,8 +143,8 @@ if __name__=='__main__':
             page = pages[i];
             href = page['href']
             content = page['content']
-            pageFileName = pos_page+str(href).replace('/','_')+'.html'
-            textFileName = pos_text+str(href).replace('/','_')+'.txt'
+            pageFileName = pos_page+http2str(href)+'.html'
+            textFileName = pos_text+http2str(href)+'.txt'
             
             if href not in hrefs:
                 # save pages

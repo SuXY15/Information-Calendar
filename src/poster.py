@@ -22,8 +22,8 @@ if __name__ == "__main__" :
     for i in range(len(rec_page)):
         # load value
         date,href,title = rec_page[i][0],rec_page[i][1],rec_page[i][2]
-        pageFileName = pos_page+'/'+href.replace('/','_')+'.html'
-        postFileName = pos_post+date.replace('.','-')+'-'+href.replace('/','_')+'.html'
+        pageFileName = pos_page+'/'+http2str(href)+'.html'
+        postFileName = pos_post+date.replace('.','-')+'-'+http2str(href)+'.html'
         url_info = os.path.split(rec_page[i][1])[0]
         print "Analyzing and posting page: %s"%pageFileName
 
@@ -34,7 +34,7 @@ if __name__ == "__main__" :
         for rub in rub_info:
             if text.find(rub)!=-1:
                 text = text.replace(rub,"<!-- "+rub+" -->")
-        
+
         try:
             # add url link
             soup = BeautifulSoup(text)
@@ -53,7 +53,7 @@ if __name__ == "__main__" :
         except:
             RaiseErr('display', "%30s %100s"%(title, pageFileName))
         # setting of post
-        rec_ext= recordReader(ext_path+href.replace('/','_')+"_ext.txt")
+        rec_ext= recordReader(ext_path+http2str(href)+"_ext.txt")
         layout = "layout:      post\n"
         title  = "title:       %s\n"%title
         excerpt= "excerpt:     <a href="+href+">%s</a>\n"%href

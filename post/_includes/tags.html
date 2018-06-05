@@ -31,7 +31,7 @@
     {%- assign m4 = n3 -%}
     {%- assign n4 = m4 | plus: gap_size -%}
     {%- for tag in _tags -%}
-      {%- if tag[1].size >= n2 -%}
+      {%- if tag[1].size >= n1 -%}
         {%- assign cur_size = tag[1].size -%}
         {%- if cur_size >= m1 and cur_size < n1 -%}
           {%- assign c_index = 1 -%}
